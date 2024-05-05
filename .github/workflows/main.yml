@@ -1,0 +1,23 @@
+name: Update Leaderboard
+on:
+  schedule:
+    - cron: "0 */1 * * *"
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: create new readme
+      - run: python src/build_table.py
+
+      - name: Commit change
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: 'readme.md'
+          author_name: Bobby Palmer
+
+          author_email: bobbyp@umich.edu
+
+          default_author: github_actor
+
+          message: 'Update leaderboard'
+
