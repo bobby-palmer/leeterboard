@@ -24,7 +24,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Make and commit changes
-      - run: |
+        run: |
           python src/build_table.py
           git config user.name github-actions
           git config user.email github-actions@github.com
