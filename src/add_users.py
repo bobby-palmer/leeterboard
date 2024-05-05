@@ -3,7 +3,7 @@ import json
 import sys
 
 BASE_URL = "https://leetcode-stats-api.herokuapp.com/"
-USERLIST = "../bin/users.json"
+USERLIST = "bin/users.json"
 
 with open(USERLIST, 'r') as u:
     global users
@@ -26,5 +26,5 @@ if res['status'] != 'success':
 
 users[username] = f"{firstname} {lastname}"
 
-with open(USERLIST) as output:
+with open(USERLIST, 'w') as output:
     output.write(json.dumps(users))
