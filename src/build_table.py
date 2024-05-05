@@ -22,6 +22,7 @@ rankings.reverse()
 # make table
 with open("readme.md", 'w') as f:
     f.write("| Name | Submissions |\n")
+    f.write("| --- | --- |\n")
     for submits, user in rankings:
         f.write(f"| {user} | {submits} |\n")
 
