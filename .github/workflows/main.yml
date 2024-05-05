@@ -15,6 +15,9 @@ jobs:
         with:
           python-version: 3.8 # Install the python version needed
 
+      - name: Install Python dependencies
+        run: python -m pip install --upgrade pip requests
+
       - name: Create new readme
         run: python src/build_table.py
 
