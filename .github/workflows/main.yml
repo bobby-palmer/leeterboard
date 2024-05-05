@@ -7,10 +7,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: create new readme
-      - run: python src/build_table.py
+        run: python src/build_table.py
 
       - name: Commit change
-      - uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@v9
         with:
           add: 'readme.md'
           author_name: Bobby Palmer
