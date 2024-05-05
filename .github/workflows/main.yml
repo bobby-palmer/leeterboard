@@ -1,13 +1,21 @@
 name: Update Leaderboard
 on:
-  workflow_dispatch
-  # schedule:
-  #   - cron: "0 */1 * * *"
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */1 * * *"
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out create new readme
+      - name: Checkout repository content
+        uses: actions/checkout@v2 # Checkout the repository content to github runner.
+
+      - name: Setup Python Version
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8 # Install the python version needed
+
+      - name: Create new readme
         run: python src/build_table.py
 
       - name: Commit change
