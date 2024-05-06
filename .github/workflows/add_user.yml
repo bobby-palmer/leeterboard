@@ -22,9 +22,12 @@ jobs:
       - name: Make and commit changes
         run: |
           python src/add_users.py ${{ github.event.issue.title }}
+          python src/build_table.py
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add bin/users.json
           git commit -m "Update users"
+          git add readme.md
+          git commit -m "Add new users to leaderboard"
           git push
 
