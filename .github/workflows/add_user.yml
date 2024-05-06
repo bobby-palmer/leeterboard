@@ -4,11 +4,10 @@ on:
     types: [opened]
 permissions:
   contents: write
+  issues: write
 jobs:
   update:
     runs-on: ubuntu-latest
-    permissions:
-      issues: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
@@ -38,3 +37,4 @@ jobs:
           gh issue close ${{ github.event.issue.number }} -c "Auto close"
         env:
           GH_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          GH_REPO: ${{github.repository}}
