@@ -28,7 +28,7 @@ jobs:
           git config user.email github-actions@github.com
           git add bin/users.json
           git diff --cached --quiet -- bin/users.json || git commit -m "Update users" bin/users.json
-          git add readme.md
+          git add leaderboard.md
           git diff --cached --quiet -- readme.md || git commit -m "Add new users to leaderboard" readme.md
           git push
 
