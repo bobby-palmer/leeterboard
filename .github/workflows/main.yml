@@ -28,7 +28,7 @@ jobs:
           python src/build_table.py
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add Leaderboard.md
+          git add readme.md
           git commit -m "Update board"
           git push
 
