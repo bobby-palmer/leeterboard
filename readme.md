@@ -12,7 +12,7 @@ Note: the https://github.com/bobby-palmer/leeterboard/labels/register label only
 
 ## Scoring
 
-You score is calculated as: 3 $\times$ hards solved + 2 $\times$ mediums solved + 1 $\times$ easys solved
+You score is calculated as: 1 $\times$ easys solved + 2 $\times$ mediums solved + 3 $\times$ hards solved
 
 ## Leaderboard
 
