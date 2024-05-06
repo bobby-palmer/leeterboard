@@ -1,10 +1,11 @@
-import requests
 import json
+
+import requests
 
 BASE_URL = "https://leetcode-stats-api.herokuapp.com/"
 USERLIST = "bin/users.json"
 
-with open(USERLIST, 'r') as u:
+with open(USERLIST, "r") as u:
     global users
     users = json.load(u)
 
@@ -18,18 +19,16 @@ for username, user in users.items():
 rankings.sort()
 rankings.reverse()
 
+with open("readme.md", "r") as f:
+    lines = f.readlines()
+
 # make table
-with open("readme.md", 'w') as f:
-    f.write("# Leeterboard\n")
-    f.write("an automatic leaderboard for leetcode stats\n")
-    f.write("## How to join\n")
-    f.write('Open a new issue with the title : `<leetcode username> <first name> <last name>`  \n')
-    f.write('For example, I would open a new issue titled : bobbypalmer Bobby Palmer  \n')
-    f.write("## Scoring\n")
-    f.write("You score is calculated as : 3 * hards solved + 2 * mediums solved + 1 * easys solved  \n")
-    f.write("## Leaderboard\n")
+with open("readme.md", "w") as f:
+    for line in lines:
+        f.write(line)
+        if line.strip() == "## Leaderboard":
+            break
     f.write("| Name | Score |\n")
     f.write("| --- | --- |\n")
     for score, user in rankings:
         f.write(f"| {user} | {score} |\n")
-

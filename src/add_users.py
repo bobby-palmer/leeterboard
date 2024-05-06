@@ -1,11 +1,12 @@
-import requests
 import json
 import sys
+
+import requests
 
 BASE_URL = "https://leetcode-stats-api.herokuapp.com/"
 USERLIST = "bin/users.json"
 
-with open(USERLIST, 'r') as u:
+with open(USERLIST, "r") as u:
     global users
     users = json.load(u)
 
@@ -21,10 +22,10 @@ if username in users.keys():
 
 res = requests.get(BASE_URL + username).json()
 
-if res['status'] != 'success':
+if res["status"] != "success":
     exit(0)
 
 users[username] = f"{firstname} {lastname}"
 
-with open(USERLIST, 'w') as output:
+with open(USERLIST, "w") as output:
     output.write(json.dumps(users))
