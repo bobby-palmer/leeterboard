@@ -26,7 +26,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add bin/users.json
-          git diff-index --quiet HEAD || git diff-files --quiet || git commit -m "Update users"
+          git diff-index --quiet HEAD || git commit -m "Update users"
           git add readme.md
-          git diff-index --quiet HEAD || git diff-files --quiet || git commit -m "Add new users to leaderboard"
+          git diff-index --quiet HEAD || git commit -m "Add new users to leaderboard"
           git push
