@@ -33,6 +33,6 @@ jobs:
 
       - name: Close Issue
         run: |
-          gh issue close https://github.com/bobbypalmer/leeterboard/issues/${{ github.event.issue.number }} -c "Auto close"
+          gh issue close https://github.com/bobby-palmer/leeterboard/issues/${{ github.event.issue.number }} -c "Auto close"
         env:
           GH_TOKEN: ${{secrets.GITHUB_TOKEN}}
