@@ -1,12 +1,12 @@
 name: Update users data
 on:
   issues:
-    types: [opened]
+    types: [labeled]
 permissions:
   contents: write
   issues: write
 jobs:
-  update:
+  setup:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -20,6 +20,23 @@ jobs:
       - name: Install Python dependencies
         run: python -m pip install --upgrade pip requests
 
+  check-issue-label:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check if issue has label "register"
+        run: |
+          labels=$(jq -r '.issue.labels[].name' "${GITHUB_EVENT_PATH}")
+          if [[ "$labels" == *"register"* ]]; then
+            echo "Issue has label 'register'."
+          else
+            echo "Issue does not have label 'register'. Exiting the job."
+            exit 0
+          fi
+
+  register:
+    needs: check-issue-label
+    runs-on: ubuntu-latest
+    steps:
       - name: Make and commit changes
         run: |
           python src/add_users.py ${{ github.event.issue.title }}
