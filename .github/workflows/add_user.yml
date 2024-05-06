@@ -1,6 +1,5 @@
 name: Update users data
 on:
-  workflow_dispatch:
   issue:
     types: [opened]
 permissions:
