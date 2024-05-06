@@ -1,6 +1,6 @@
 name: Update users data
 on:
-  issue:
+  issues:
     types: [opened]
 permissions:
   contents: write
