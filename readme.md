@@ -18,8 +18,8 @@ only be used when registering your leetcode account.
 You score is calculated as: 1 $\times$ easys solved + 2 $\times$ mediums solved + 3 $\times$ hards solved
 
 ## Leaderboard
-| Name | Score |
-| --- | --- |
-| Conner Rose | 316 |
-| Bobby Palmer | 277 |
-| Aaron Rahman | 277 |
+| Name | Easy | Medium | Hard | Score |
+| --- | --- | --- | --- | --- |
+| Conner Rose | 76 | 93 | 18 | 316 |
+| Bobby Palmer | 39 | 92 | 18 | 277 |
+| Aaron Rahman | 23 | 91 | 24 | 277 |
