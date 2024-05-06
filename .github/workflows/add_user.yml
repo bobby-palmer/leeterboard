@@ -30,3 +30,7 @@ jobs:
           git add readme.md
           git diff --cached --quiet -- readme.md || git commit -m "Add new users to leaderboard" readme.md
           git push
+
+      - name: Close Issue
+        run: |
+          gh issue close ${{ github.event.issue.id }}
