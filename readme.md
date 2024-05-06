@@ -21,6 +21,5 @@ You score is calculated as: 1 $\times$ easys solved + 2 $\times$ mediums solved 
 
 | Name         | Score |
 | ------------ | ----- |
-| Conner Rose  | 316   |
 | Bobby Palmer | 277   |
 | Aaron Rahman | 277   |
