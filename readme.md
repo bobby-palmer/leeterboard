@@ -8,5 +8,6 @@ You score is calculated as : 3 * hards solved + 2 * mediums solved + 1 * easys s
 ## Leaderboard
 | Name | Score |
 | --- | --- |
-| Conner Rose | 316 |
-| Bobby Palmer | 277 |
+| Bobby Palmer | 404 |
+| Conner Rose | 303 |
+| Aaron Rahman | 131 |
