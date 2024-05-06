@@ -19,7 +19,7 @@ rankings.sort()
 rankings.reverse()
 
 # make table
-with open("leaderboard.md", 'w') as f:
+with open("readme.md", 'w') as f:
     f.write("# Leaderboard\n")
     f.write("| Name | Score |\n")
     f.write("| --- | --- |\n")
