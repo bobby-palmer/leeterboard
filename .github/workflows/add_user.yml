@@ -33,6 +33,6 @@ jobs:
 
       - name: Close Issue
         run: |
-          gh issue close ${{ github.event.issue.id }}
+          gh issue close ${{ github.event.issue.number }}
         env:
           GH_TOKEN: ${{secrets.GITHUB_TOKEN}}
