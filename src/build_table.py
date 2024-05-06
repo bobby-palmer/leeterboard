@@ -20,7 +20,14 @@ rankings.reverse()
 
 # make table
 with open("readme.md", 'w') as f:
-    f.write("# Leaderboard\n")
+    f.write("# Leeterboard\n")
+    f.write("an automatic leaderboard for leetcode stats")
+    f.write("## How to join\n")
+    f.write('Open a new issue with the title : <leetcode username> <first name> <last name>  ')
+    f.write('For example, I would open a new issue titled : bobbypalmer Bobby Palmer  ')
+    f.write("## Scoring\n")
+    f.write("You score is calculated as : 3 * hards solved + 2 * mediums solved + 1 * easys solved  ")
+    f.write("## Leaderboard\n")
     f.write("| Name | Score |\n")
     f.write("| --- | --- |\n")
     for score, user in rankings:
