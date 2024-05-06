@@ -3,7 +3,7 @@ on:
   issues:
     types: [opened]
 permissions:
-  contents: write-all
+  contents: write
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -33,6 +33,6 @@ jobs:
 
       - name: Close Issue
         run: |
-          gh issue close ${{ github.event.issue.number }}
+          gh issue close https://github.com/bobbypalmer/leeterboard/issues/${{ github.event.issue.number }} -c "Auto close"
         env:
           GH_TOKEN: ${{secrets.GITHUB_TOKEN}}
