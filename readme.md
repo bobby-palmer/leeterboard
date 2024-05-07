@@ -22,7 +22,7 @@ You score is calculated as:
 | Name | Easy | Medium | Hard | Score |
 | --- | --- | --- | --- | --- |
 | Conner Rose | 76 | 93 | 18 | 316 |
-| Aaron Rahman | 23 | 92 | 24 | 279 |
+| Aaron Rahman | 23 | 93 | 25 | 284 |
 | Bobby Palmer | 39 | 92 | 18 | 277 |
 | Rithvik Vanga | 17 | 46 | 6 | 127 |
 | Nikhil Goli | 11 | 16 | 2 | 49 |
