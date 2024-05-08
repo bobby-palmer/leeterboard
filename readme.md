@@ -26,5 +26,5 @@ You score is calculated as:
 | Aaron Rahman | 23 | 93 | 25 | 284 |
 | Bobby Palmer | 39 | 92 | 18 | 277 |
 | Charles Huang | 34 | 80 | 5 | 209 |
-| Rithvik Vanga | 18 | 48 | 6 | 132 |
-| Nikhil Goli | 11 | 16 | 2 | 49 |
+| Rithvik Vanga | 18 | 49 | 6 | 134 |
+| Nikhil Goli | 15 | 17 | 3 | 58 |
