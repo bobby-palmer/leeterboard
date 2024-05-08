@@ -27,4 +27,5 @@ You score is calculated as:
 | Bobby Palmer | 39 | 93 | 19 | 282 |
 | Charles Huang | 34 | 81 | 5 | 211 |
 | Rithvik Vanga | 18 | 50 | 6 | 136 |
+| Arnav Shah | 15 | 47 | 8 | 133 |
 | Nikhil Goli | 15 | 17 | 3 | 58 |
