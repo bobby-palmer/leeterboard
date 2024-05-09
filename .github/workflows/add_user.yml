@@ -1,13 +1,13 @@
 name: Update users data
 on:
   issues:
-    types: [open]
+    types: [opened]
 permissions:
   contents: write
   issues: write
 jobs:
   register:
-    if: startsWith(github.event.issue.title, '[register]')
+    if: ${{ github.event.issue.title == '[register]' }} 
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
