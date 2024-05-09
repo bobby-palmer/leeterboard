@@ -1,13 +1,13 @@
 name: Update users data
 on:
   issues:
-    types: [labeled]
+    types: [open]
 permissions:
   contents: write
   issues: write
 jobs:
   register:
-    if: contains(github.event.issue.labels.*.name, 'register')
+    if: github.event.issue.title == '[register]'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -23,7 +23,7 @@ jobs:
 
       - name: Make and commit changes
         run: |
-          python src/add_users.py ${{ github.event.issue.title }}
+          python src/add_users.py ${{ github.event.issue.body }}
           python src/build_table.py
           git config user.name github-actions
           git config user.email github-actions@github.com

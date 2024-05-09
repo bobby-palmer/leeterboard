@@ -4,14 +4,10 @@ An automated leaderboard for leetcode progress.
 
 ## How to join
 
-Open a new issue with the title: `<leetcode username> <first name> <last name>`
-and include the https://github.com/bobby-palmer/leeterboard/labels/register
-label.
+Open a new issue with the title: `[register]` and description:
+`<leetcode username> <first name> <last name>`
 
-For example, I would open a new issue titled: "bobbypalmer Bobby Palmer".
-
-Note: the https://github.com/bobby-palmer/leeterboard/labels/register label
-should only be used when registering your leetcode account.
+For example, I would open a new issue with the description: "bobbypalmer Bobby Palmer".
 
 ## Scoring
 
