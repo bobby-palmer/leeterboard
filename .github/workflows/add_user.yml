@@ -7,7 +7,7 @@ permissions:
   issues: write
 jobs:
   register:
-    if: github.event.issue.title == '[register]'
+    if: ${{ github.event.issue.title == '[register]' }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
