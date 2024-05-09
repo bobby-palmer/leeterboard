@@ -22,8 +22,8 @@ You score is calculated as:
 | Aaron Rahman | 23 | 96 | 26 | 293 |
 | Bobby Palmer | 39 | 96 | 19 | 288 |
 | Charles Huang | 34 | 81 | 5 | 211 |
-| Rithvik Vanga | 18 | 50 | 8 | 142 |
+| Rithvik Vanga | 19 | 50 | 8 | 143 |
 | Arnav Shah | 15 | 47 | 8 | 133 |
 | Batu Engin | 45 | 34 | 0 | 113 |
-| David McDermott | 27 | 27 | 0 | 81 |
 | Nikhil Goli | 16 | 21 | 3 | 67 |
+| David McDermott | 0 | 0 | 0 | 0 |
