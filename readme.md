@@ -29,4 +29,5 @@ You score is calculated as:
 | Rithvik Vanga | 18 | 50 | 6 | 136 |
 | Arnav Shah | 15 | 47 | 8 | 133 |
 | Batu Engin | 45 | 34 | 0 | 113 |
-| Nikhil Goli | 16 | 20 | 3 | 65 |
+| David McDermott | 27 | 27 | 0 | 81 |
+| Nikhil Goli | 16 | 21 | 3 | 67 |
