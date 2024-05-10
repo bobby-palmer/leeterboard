@@ -27,4 +27,4 @@ You score is calculated as:
 | Batu Engin | 45 | 34 | 0 | 113 |
 | David McDermott | 27 | 27 | 0 | 81 |
 | Nikhil Goli | 16 | 22 | 4 | 72 |
-| Jad Alaoui | 6 | 2 | 0 | 10 |
+| Jad Alaoui | 7 | 2 | 0 | 11 |
