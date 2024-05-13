@@ -26,5 +26,5 @@ You score is calculated as:
 | Arnav Shah | 17 | 49 | 10 | 145 |
 | Batu Engin | 45 | 34 | 0 | 113 |
 | Nikhil Goli | 16 | 30 | 7 | 97 |
-| David McDermott | 29 | 28 | 2 | 91 |
+| David McDermott | 29 | 29 | 2 | 93 |
 | Jad Alaoui | 7 | 2 | 0 | 11 |
