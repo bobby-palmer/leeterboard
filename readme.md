@@ -21,8 +21,8 @@ You score is calculated as:
 | Aaron Rahman | 29 | 109 | 30 | 337 |
 | Conner Rose | 76 | 100 | 18 | 330 |
 | Bobby Palmer | 41 | 100 | 23 | 310 |
+| Rithvik Vanga | 26 | 75 | 13 | 215 |
 | Charles Huang | 34 | 82 | 5 | 213 |
-| Rithvik Vanga | 26 | 74 | 12 | 210 |
 | Arnav Shah | 17 | 50 | 10 | 147 |
 | Nikhil Goli | 17 | 42 | 7 | 122 |
 | Batu Engin | 45 | 34 | 0 | 113 |
