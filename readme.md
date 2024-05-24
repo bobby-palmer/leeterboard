@@ -25,6 +25,6 @@ You score is calculated as:
 | Charles Huang | 34 | 82 | 5 | 213 |
 | Arnav Shah | 17 | 50 | 10 | 147 |
 | Nikhil Goli | 21 | 49 | 7 | 140 |
-| Batu Engin | 45 | 37 | 0 | 119 |
+| Batu Engin | 45 | 38 | 0 | 121 |
 | David McDermott | 30 | 32 | 2 | 100 |
 | Jad Alaoui | 7 | 2 | 0 | 11 |
