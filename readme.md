@@ -24,7 +24,7 @@ You score is calculated as:
 | Rithvik Vanga | 32 | 110 | 19 | 309 |
 | Charles Huang | 34 | 82 | 5 | 213 |
 | Nikhil Goli | 22 | 59 | 10 | 170 |
-| Arnav Shah | 18 | 50 | 10 | 148 |
+| Arnav Shah | 18 | 51 | 10 | 150 |
 | Batu Engin | 47 | 40 | 0 | 127 |
 | David McDermott | 36 | 35 | 5 | 121 |
 | Jad Alaoui | 7 | 2 | 0 | 11 |
