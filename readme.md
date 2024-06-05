@@ -23,8 +23,8 @@ You score is calculated as:
 | Bobby Palmer | 41 | 100 | 29 | 328 |
 | Rithvik Vanga | 33 | 111 | 20 | 315 |
 | Charles Huang | 34 | 82 | 5 | 213 |
-| Nikhil Goli | 22 | 60 | 10 | 172 |
+| Nikhil Goli | 22 | 61 | 10 | 174 |
 | Arnav Shah | 23 | 58 | 10 | 169 |
 | Batu Engin | 48 | 42 | 0 | 132 |
-| David McDermott | 39 | 36 | 5 | 126 |
+| David McDermott | 40 | 36 | 5 | 127 |
 | Jad Alaoui | 7 | 2 | 0 | 11 |
