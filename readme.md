@@ -17,14 +17,14 @@ You score is calculated as:
 ## Leaderboard
 | Name | Easy | Medium | Hard | Score |
 | --- | --- | --- | --- | --- |
-| Nikhil Patel | 70 | 185 | 27 | 521 |
 | Aaron Rahman | 34 | 116 | 33 | 365 |
-| Conner Rose | 76 | 109 | 19 | 351 |
-| Rithvik Vanga | 33 | 123 | 21 | 342 |
 | Bobby Palmer | 41 | 100 | 29 | 328 |
-| Charles Huang | 34 | 82 | 5 | 213 |
 | Nikhil Goli | 24 | 62 | 11 | 181 |
 | Arnav Shah | 24 | 60 | 10 | 174 |
-| Batu Engin | 49 | 43 | 0 | 135 |
-| David McDermott | 40 | 39 | 5 | 133 |
-| Jad Alaoui | 7 | 2 | 0 | 11 |
+| Rithvik Vanga | 0 | 0 | 0 | 0 |
+| Nikhil Patel | 0 | 0 | 0 | 0 |
+| Jad Alaoui | 0 | 0 | 0 | 0 |
+| David McDermott | 0 | 0 | 0 | 0 |
+| Conner Rose | 0 | 0 | 0 | 0 |
+| Charles Huang | 0 | 0 | 0 | 0 |
+| Batu Engin | 0 | 0 | 0 | 0 |
