@@ -23,9 +23,9 @@ You score is calculated as:
 | Conner Rose | 76 | 109 | 19 | 351 |
 | Bobby Palmer | 41 | 100 | 29 | 328 |
 | Arnav Shah | 32 | 77 | 12 | 222 |
+| Charles Huang | 34 | 82 | 5 | 213 |
 | Nikhil Goli | 26 | 64 | 11 | 187 |
 | Batu Engin | 49 | 45 | 0 | 139 |
 | Aiden Mizhen | 1 | 3 | 2 | 13 |
-| Jad Alaoui | 7 | 2 | 0 | 11 |
+| Jad Alaoui | 0 | 0 | 0 | 0 |
 | David McDermott | 0 | 0 | 0 | 0 |
-| Charles Huang | 0 | 0 | 0 | 0 |
