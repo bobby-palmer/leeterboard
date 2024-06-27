@@ -17,7 +17,6 @@ You score is calculated as:
 ## Leaderboard
 | Name | Easy | Medium | Hard | Score |
 | --- | --- | --- | --- | --- |
-| Nikhil Patel | 70 | 186 | 27 | 523 |
 | Rithvik Vanga | 33 | 171 | 22 | 441 |
 | Aaron Rahman | 36 | 132 | 36 | 408 |
 | Conner Rose | 76 | 109 | 19 | 351 |
@@ -26,6 +25,7 @@ You score is calculated as:
 | Charles Huang | 35 | 83 | 5 | 216 |
 | Nikhil Goli | 26 | 65 | 11 | 189 |
 | David McDermott | 47 | 55 | 10 | 187 |
-| Batu Engin | 52 | 54 | 1 | 163 |
 | Aiden Mizhen | 1 | 3 | 2 | 13 |
 | Jad Alaoui | 7 | 2 | 0 | 11 |
+| Nikhil Patel | 0 | 0 | 0 | 0 |
+| Batu Engin | 0 | 0 | 0 | 0 |
