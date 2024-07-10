@@ -22,10 +22,10 @@ You score is calculated as:
 | Aaron Rahman | 40 | 135 | 37 | 421 |
 | Conner Rose | 76 | 110 | 19 | 353 |
 | Bobby Palmer | 41 | 103 | 33 | 346 |
-| Arnav Shah | 42 | 96 | 13 | 273 |
+| Arnav Shah | 45 | 96 | 13 | 276 |
 | Charles Huang | 35 | 83 | 5 | 216 |
 | David McDermott | 53 | 63 | 11 | 212 |
 | Nikhil Goli | 26 | 66 | 11 | 191 |
-| Batu Engin | 53 | 62 | 1 | 180 |
+| Batu Engin | 53 | 63 | 1 | 182 |
 | Aiden Mizhen | 1 | 3 | 2 | 13 |
 | Jad Alaoui | 7 | 2 | 0 | 11 |
