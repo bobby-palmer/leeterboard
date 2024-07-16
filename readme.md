@@ -17,7 +17,7 @@ You score is calculated as:
 ## Leaderboard
 | Name | Easy | Medium | Hard | Score |
 | --- | --- | --- | --- | --- |
-| Rithvik Vanga | 34 | 211 | 25 | 531 |
+| Rithvik Vanga | 34 | 212 | 25 | 533 |
 | Nikhil Patel | 70 | 188 | 27 | 527 |
 | Aaron Rahman | 40 | 137 | 39 | 431 |
 | Conner Rose | 76 | 112 | 19 | 357 |
