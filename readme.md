@@ -17,12 +17,12 @@ You score is calculated as:
 ## Leaderboard
 | Name | Easy | Medium | Hard | Score |
 | --- | --- | --- | --- | --- |
-| Rithvik Vanga | 34 | 212 | 25 | 533 |
+| Rithvik Vanga | 34 | 214 | 25 | 537 |
 | Nikhil Patel | 70 | 188 | 27 | 527 |
-| Aaron Rahman | 40 | 137 | 39 | 431 |
+| Aaron Rahman | 40 | 138 | 39 | 433 |
 | Conner Rose | 76 | 112 | 19 | 357 |
 | Bobby Palmer | 41 | 104 | 34 | 351 |
-| Arnav Shah | 46 | 105 | 15 | 301 |
+| Arnav Shah | 46 | 106 | 15 | 303 |
 | David McDermott | 53 | 68 | 12 | 225 |
 | Charles Huang | 35 | 84 | 5 | 218 |
 | Batu Engin | 54 | 68 | 2 | 196 |
