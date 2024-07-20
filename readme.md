@@ -27,5 +27,5 @@ You score is calculated as:
 | Charles Huang | 35 | 86 | 5 | 222 |
 | Batu Engin | 55 | 72 | 2 | 205 |
 | Nikhil Goli | 26 | 67 | 11 | 193 |
-| Aiden Mizhen | 1 | 3 | 2 | 13 |
+| Aiden Mizhen | 1 | 3 | 3 | 16 |
 | Jad Alaoui | 7 | 2 | 0 | 11 |
