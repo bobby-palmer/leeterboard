@@ -24,7 +24,7 @@ You score is calculated as:
 | Bobby Palmer | 43 | 109 | 38 | 375 |
 | Arnav Shah | 49 | 112 | 15 | 318 |
 | Charles Huang | 36 | 92 | 7 | 241 |
-| David McDermott | 55 | 71 | 12 | 233 |
+| David McDermott | 56 | 71 | 12 | 234 |
 | Batu Engin | 55 | 74 | 2 | 209 |
 | Nikhil Goli | 26 | 70 | 11 | 199 |
 | Aiden Mizhen | 1 | 3 | 4 | 19 |
