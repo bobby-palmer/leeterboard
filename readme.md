@@ -26,6 +26,6 @@ You score is calculated as:
 | Charles Huang | 38 | 98 | 8 | 258 |
 | David McDermott | 57 | 72 | 12 | 237 |
 | Batu Engin | 55 | 75 | 2 | 211 |
+| Nikhil Goli | 26 | 72 | 11 | 203 |
 | Aiden Mizhen | 1 | 3 | 4 | 19 |
 | Jad Alaoui | 7 | 2 | 0 | 11 |
-| Nikhil Goli | 0 | 0 | 0 | 0 |
