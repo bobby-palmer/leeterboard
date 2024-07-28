@@ -21,7 +21,7 @@ You score is calculated as:
 | Nikhil Patel | 72 | 188 | 27 | 529 |
 | Aaron Rahman | 41 | 140 | 39 | 438 |
 | Bobby Palmer | 43 | 117 | 47 | 418 |
-| Conner Rose | 76 | 115 | 29 | 393 |
+| Conner Rose | 76 | 115 | 31 | 399 |
 | Arnav Shah | 50 | 116 | 17 | 333 |
 | Charles Huang | 38 | 105 | 8 | 272 |
 | David McDermott | 58 | 75 | 12 | 244 |
