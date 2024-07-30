@@ -28,5 +28,6 @@ You score is calculated as:
 | David McDermott | 58 | 76 | 13 | 249 |
 | Batu Engin | 56 | 77 | 2 | 216 |
 | Nikhil Goli | 26 | 72 | 11 | 203 |
+| Nico FB | 16 | 23 | 5 | 77 |
 | Aiden Mizhen | 1 | 3 | 4 | 19 |
 | Jad Alaoui | 7 | 2 | 0 | 11 |
