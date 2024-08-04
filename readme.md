@@ -17,7 +17,7 @@ You score is calculated as:
 ## Leaderboard
 | Name | Easy | Medium | Hard | Score |
 | --- | --- | --- | --- | --- |
-| Rithvik Vanga | 35 | 219 | 31 | 566 |
+| Rithvik Vanga | 35 | 221 | 31 | 570 |
 | Nikhil Patel | 73 | 189 | 27 | 532 |
 | Bobby Palmer | 45 | 122 | 59 | 466 |
 | Aarin Salot | 89 | 168 | 9 | 452 |
@@ -26,8 +26,8 @@ You score is calculated as:
 | Arnav Shah | 51 | 127 | 17 | 356 |
 | Charles Huang | 39 | 114 | 9 | 294 |
 | David McDermott | 60 | 80 | 13 | 259 |
+| Batu Engin | 56 | 78 | 2 | 218 |
 | Nikhil Goli | 26 | 72 | 11 | 203 |
 | Nico FB | 16 | 23 | 5 | 77 |
 | Aiden Mizhen | 1 | 5 | 5 | 26 |
 | Jad Alaoui | 7 | 2 | 0 | 11 |
-| Batu Engin | 0 | 0 | 0 | 0 |
