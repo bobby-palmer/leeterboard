@@ -25,7 +25,7 @@ You score is calculated as:
 | Conner Rose | 76 | 115 | 34 | 408 |
 | Arnav Shah | 51 | 127 | 17 | 356 |
 | Charles Huang | 39 | 114 | 9 | 294 |
-| David McDermott | 60 | 79 | 13 | 257 |
+| David McDermott | 60 | 80 | 13 | 259 |
 | Batu Engin | 56 | 78 | 2 | 218 |
 | Nikhil Goli | 26 | 72 | 11 | 203 |
 | Nico FB | 16 | 23 | 5 | 77 |
