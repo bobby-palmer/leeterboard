@@ -18,7 +18,7 @@ You score is calculated as:
 | Name | Easy | Medium | Hard | Score |
 | --- | --- | --- | --- | --- |
 | Rithvik Vanga | 35 | 223 | 35 | 586 |
-| Nikhil Patel | 73 | 189 | 27 | 532 |
+| Nikhil Patel | 74 | 190 | 27 | 535 |
 | Bobby Palmer | 45 | 122 | 61 | 472 |
 | Aarin Salot | 89 | 168 | 9 | 452 |
 | Aaron Rahman | 43 | 141 | 39 | 442 |
