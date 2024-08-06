@@ -23,8 +23,8 @@ You score is calculated as:
 | Aarin Salot | 89 | 168 | 9 | 452 |
 | Aaron Rahman | 43 | 141 | 39 | 442 |
 | Conner Rose | 76 | 115 | 35 | 411 |
-| Arnav Shah | 54 | 137 | 17 | 379 |
-| Charles Huang | 39 | 115 | 9 | 296 |
+| Arnav Shah | 54 | 138 | 17 | 381 |
+| Charles Huang | 39 | 118 | 9 | 302 |
 | David McDermott | 61 | 80 | 13 | 260 |
 | Batu Engin | 56 | 78 | 2 | 218 |
 | Nikhil Goli | 26 | 72 | 11 | 203 |
