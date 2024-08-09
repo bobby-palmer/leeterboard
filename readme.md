@@ -22,8 +22,8 @@ You score is calculated as:
 | Bobby Palmer | 46 | 123 | 65 | 487 |
 | Aarin Salot | 89 | 168 | 9 | 452 |
 | Aaron Rahman | 43 | 141 | 39 | 442 |
-| Conner Rose | 76 | 115 | 35 | 411 |
-| Arnav Shah | 56 | 147 | 19 | 407 |
+| Conner Rose | 76 | 115 | 36 | 414 |
+| Arnav Shah | 56 | 147 | 20 | 410 |
 | Charles Huang | 39 | 120 | 9 | 306 |
 | David McDermott | 61 | 82 | 14 | 267 |
 | Batu Engin | 56 | 78 | 2 | 218 |
