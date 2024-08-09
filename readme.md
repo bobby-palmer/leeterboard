@@ -17,7 +17,7 @@ You score is calculated as:
 ## Leaderboard
 | Name | Easy | Medium | Hard | Score |
 | --- | --- | --- | --- | --- |
-| Rithvik Vanga | 35 | 223 | 40 | 601 |
+| Rithvik Vanga | 35 | 224 | 40 | 603 |
 | Nikhil Patel | 75 | 190 | 27 | 536 |
 | Bobby Palmer | 46 | 123 | 65 | 487 |
 | Aarin Salot | 89 | 168 | 9 | 452 |
