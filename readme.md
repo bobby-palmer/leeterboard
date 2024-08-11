@@ -20,7 +20,6 @@ You score is calculated as:
 | Rithvik Vanga | 36 | 228 | 41 | 615 |
 | Nikhil Patel | 75 | 190 | 27 | 536 |
 | Bobby Palmer | 46 | 124 | 65 | 489 |
-| Aarin Salot | 89 | 168 | 9 | 452 |
 | Arnav Shah | 57 | 158 | 25 | 448 |
 | Aaron Rahman | 43 | 141 | 39 | 442 |
 | Conner Rose | 76 | 115 | 36 | 414 |
@@ -31,3 +30,4 @@ You score is calculated as:
 | Nico FB | 16 | 23 | 5 | 77 |
 | Aiden Mizhen | 9 | 5 | 5 | 34 |
 | Jad Alaoui | 7 | 2 | 0 | 11 |
+| Aarin Salot | 0 | 0 | 0 | 0 |
