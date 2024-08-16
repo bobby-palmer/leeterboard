@@ -20,7 +20,7 @@ You score is calculated as:
 | Rithvik Vanga | 36 | 228 | 42 | 618 |
 | Nikhil Patel | 75 | 190 | 27 | 536 |
 | Bobby Palmer | 46 | 124 | 66 | 492 |
-| Arnav Shah | 58 | 160 | 27 | 459 |
+| Arnav Shah | 58 | 161 | 27 | 461 |
 | Aarin Salot | 89 | 168 | 9 | 452 |
 | Aaron Rahman | 43 | 141 | 39 | 442 |
 | Conner Rose | 76 | 116 | 37 | 419 |
