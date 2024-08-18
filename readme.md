@@ -25,7 +25,7 @@ You score is calculated as:
 | Aaron Rahman | 43 | 145 | 39 | 450 |
 | Conner Rose | 76 | 116 | 37 | 419 |
 | Charles Huang | 41 | 136 | 10 | 343 |
-| David McDermott | 63 | 87 | 16 | 285 |
+| David McDermott | 63 | 88 | 16 | 287 |
 | Batu Engin | 56 | 78 | 2 | 218 |
 | Nikhil Goli | 26 | 72 | 11 | 203 |
 | Nico FB | 16 | 23 | 5 | 77 |
