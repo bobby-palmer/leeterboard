@@ -25,7 +25,7 @@ You score is calculated as:
 | Aarin Salot | 89 | 170 | 9 | 456 |
 | Conner Rose | 76 | 116 | 37 | 419 |
 | Charles Huang | 41 | 157 | 13 | 394 |
-| David McDermott | 78 | 94 | 18 | 320 |
+| David McDermott | 79 | 94 | 18 | 321 |
 | Batu Engin | 56 | 78 | 2 | 218 |
 | Nikhil Goli | 26 | 72 | 11 | 203 |
 | Nico FB | 16 | 23 | 5 | 77 |
