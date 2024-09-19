@@ -19,7 +19,7 @@ You score is calculated as:
 | --- | --- | --- | --- | --- |
 | Matthew Jia | 113 | 245 | 48 | 747 |
 | Rithvik Vanga | 36 | 230 | 42 | 622 |
-| Bobby Palmer | 51 | 153 | 86 | 615 |
+| Bobby Palmer | 51 | 153 | 87 | 618 |
 | Arnav Shah | 68 | 193 | 44 | 586 |
 | Nikhil Patel | 75 | 192 | 27 | 540 |
 | Aarin Salot | 89 | 171 | 10 | 461 |
