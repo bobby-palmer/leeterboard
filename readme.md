@@ -17,7 +17,7 @@ You score is calculated as:
 ## Leaderboard
 | Name | Easy | Medium | Hard | Score |
 | --- | --- | --- | --- | --- |
-| Matthew Jia | 113 | 247 | 49 | 754 |
+| Matthew Jia | 113 | 247 | 50 | 757 |
 | Rithvik Vanga | 36 | 230 | 42 | 622 |
 | Bobby Palmer | 51 | 153 | 88 | 621 |
 | Arnav Shah | 68 | 193 | 44 | 586 |
