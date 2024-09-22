@@ -24,7 +24,7 @@ You score is calculated as:
 | Nikhil Patel | 75 | 192 | 27 | 540 |
 | Aarin Salot | 89 | 171 | 10 | 461 |
 | Aaron Rahman | 44 | 148 | 40 | 460 |
-| Charles Huang | 41 | 171 | 15 | 428 |
+| Charles Huang | 41 | 172 | 15 | 430 |
 | Conner Rose | 76 | 117 | 37 | 421 |
 | David McDermott | 83 | 106 | 19 | 352 |
 | Batu Engin | 56 | 78 | 2 | 218 |
