@@ -18,6 +18,7 @@ You score is calculated as:
 | Name | Easy | Medium | Hard | Score |
 | --- | --- | --- | --- | --- |
 | Matthew Jia | 113 | 249 | 52 | 767 |
+| Bobby Palmer | 51 | 155 | 90 | 631 |
 | Rithvik Vanga | 36 | 230 | 42 | 622 |
 | Arnav Shah | 68 | 196 | 46 | 598 |
 | Nikhil Patel | 75 | 192 | 27 | 540 |
@@ -31,4 +32,3 @@ You score is calculated as:
 | Nico FB | 16 | 23 | 5 | 77 |
 | Aiden Mizhen | 9 | 7 | 5 | 38 |
 | Jad Alaoui | 7 | 2 | 0 | 11 |
-| Bobby Palmer | 0 | 0 | 0 | 0 |
