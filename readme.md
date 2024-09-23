@@ -18,13 +18,12 @@ You score is calculated as:
 | Name | Easy | Medium | Hard | Score |
 | --- | --- | --- | --- | --- |
 | Matthew Jia | 113 | 249 | 52 | 767 |
-| Bobby Palmer | 51 | 155 | 89 | 628 |
 | Rithvik Vanga | 36 | 230 | 42 | 622 |
 | Arnav Shah | 68 | 196 | 46 | 598 |
 | Nikhil Patel | 75 | 192 | 27 | 540 |
 | Aarin Salot | 89 | 171 | 10 | 461 |
 | Aaron Rahman | 44 | 148 | 40 | 460 |
-| Charles Huang | 41 | 173 | 15 | 432 |
+| Charles Huang | 41 | 174 | 15 | 434 |
 | Conner Rose | 76 | 117 | 37 | 421 |
 | David McDermott | 83 | 106 | 19 | 352 |
 | Batu Engin | 56 | 78 | 2 | 218 |
@@ -32,3 +31,4 @@ You score is calculated as:
 | Nico FB | 16 | 23 | 5 | 77 |
 | Aiden Mizhen | 9 | 7 | 5 | 38 |
 | Jad Alaoui | 7 | 2 | 0 | 11 |
+| Bobby Palmer | 0 | 0 | 0 | 0 |
