@@ -19,7 +19,7 @@ You score is calculated as:
 | --- | --- | --- | --- | --- |
 | Matthew Jia | 113 | 251 | 53 | 774 |
 | Hrishikesh Bagalkote | 175 | 271 | 10 | 747 |
-| Bobby Palmer | 53 | 164 | 95 | 666 |
+| Bobby Palmer | 54 | 164 | 95 | 667 |
 | Arnav Shah | 71 | 207 | 51 | 638 |
 | Rithvik Vanga | 36 | 230 | 42 | 622 |
 | Nikhil Patel | 75 | 192 | 27 | 540 |
@@ -28,8 +28,8 @@ You score is calculated as:
 | Charles Huang | 41 | 182 | 17 | 456 |
 | Conner Rose | 76 | 117 | 38 | 424 |
 | David McDermott | 86 | 112 | 20 | 370 |
-| Batu Engin | 57 | 78 | 2 | 219 |
 | Nikhil Goli | 28 | 75 | 11 | 211 |
 | Nico FB | 16 | 23 | 5 | 77 |
 | Aiden Mizhen | 9 | 7 | 5 | 38 |
 | Jad Alaoui | 7 | 2 | 0 | 11 |
+| Batu Engin | 0 | 0 | 0 | 0 |
