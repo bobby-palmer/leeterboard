@@ -18,7 +18,7 @@ You score is calculated as:
 | Name | Easy | Medium | Hard | Score |
 | --- | --- | --- | --- | --- |
 | Matthew Jia | 113 | 251 | 53 | 774 |
-| Hrishikesh Bagalkote | 175 | 270 | 10 | 745 |
+| Hrishikesh Bagalkote | 175 | 271 | 10 | 747 |
 | Bobby Palmer | 53 | 164 | 95 | 666 |
 | Arnav Shah | 71 | 207 | 51 | 638 |
 | Rithvik Vanga | 36 | 230 | 42 | 622 |
@@ -27,7 +27,7 @@ You score is calculated as:
 | Aarin Salot | 89 | 171 | 10 | 461 |
 | Charles Huang | 41 | 182 | 17 | 456 |
 | Conner Rose | 76 | 117 | 38 | 424 |
-| David McDermott | 85 | 112 | 20 | 369 |
+| David McDermott | 86 | 112 | 20 | 370 |
 | Batu Engin | 57 | 78 | 2 | 219 |
 | Nikhil Goli | 28 | 75 | 11 | 211 |
 | Nico FB | 16 | 23 | 5 | 77 |
