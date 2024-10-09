@@ -17,7 +17,8 @@ You score is calculated as:
 ## Leaderboard
 | Name | Easy | Medium | Hard | Score |
 | --- | --- | --- | --- | --- |
-| Hrishikesh Bagalkote | 175 | 271 | 10 | 747 |
+| Matthew Jia | 113 | 251 | 53 | 774 |
+| Hrishikesh Bagalkote | 176 | 273 | 10 | 752 |
 | Bobby Palmer | 54 | 165 | 95 | 669 |
 | Arnav Shah | 71 | 207 | 51 | 638 |
 | Rithvik Vanga | 36 | 230 | 42 | 622 |
@@ -32,4 +33,3 @@ You score is calculated as:
 | Nico FB | 16 | 23 | 5 | 77 |
 | Aiden Mizhen | 9 | 7 | 5 | 38 |
 | Jad Alaoui | 7 | 2 | 0 | 11 |
-| Matthew Jia | 0 | 0 | 0 | 0 |
