@@ -31,5 +31,5 @@ You score is calculated as:
 | Batu Engin | 57 | 78 | 2 | 219 |
 | Nikhil Goli | 28 | 75 | 11 | 211 |
 | Nico FB | 16 | 23 | 5 | 77 |
-| Aiden Mizhen | 9 | 7 | 5 | 38 |
 | Jad Alaoui | 7 | 2 | 0 | 11 |
+| Aiden Mizhen | 0 | 0 | 0 | 0 |
