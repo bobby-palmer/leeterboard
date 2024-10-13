@@ -21,6 +21,7 @@ You score is calculated as:
 | Hrishikesh Bagalkote | 177 | 281 | 10 | 769 |
 | Bobby Palmer | 54 | 167 | 95 | 673 |
 | Arnav Shah | 71 | 207 | 51 | 638 |
+| Rithvik Vanga | 36 | 230 | 43 | 625 |
 | Nikhil Patel | 75 | 192 | 27 | 540 |
 | Aaron Rahman | 44 | 148 | 41 | 463 |
 | Aarin Salot | 89 | 171 | 10 | 461 |
@@ -32,4 +33,3 @@ You score is calculated as:
 | Nico FB | 16 | 23 | 5 | 77 |
 | Aiden Mizhen | 9 | 7 | 5 | 38 |
 | Jad Alaoui | 7 | 2 | 0 | 11 |
-| Rithvik Vanga | 0 | 0 | 0 | 0 |
