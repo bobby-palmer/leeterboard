@@ -17,9 +17,9 @@ You score is calculated as:
 ## Leaderboard
 | Name | Easy | Medium | Hard | Score |
 | --- | --- | --- | --- | --- |
+| Hrishikesh Bagalkote | 177 | 289 | 10 | 785 |
 | Matthew Jia | 113 | 252 | 53 | 776 |
-| Hrishikesh Bagalkote | 177 | 282 | 10 | 771 |
-| Bobby Palmer | 54 | 168 | 95 | 675 |
+| Bobby Palmer | 54 | 169 | 95 | 677 |
 | Arnav Shah | 71 | 207 | 51 | 638 |
 | Rithvik Vanga | 36 | 230 | 43 | 625 |
 | Nikhil Patel | 75 | 192 | 27 | 540 |
