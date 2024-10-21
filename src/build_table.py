@@ -28,6 +28,12 @@ for username, user in users.items():
         )
     )
 
+    # store the last score to calculate updates
+    users[username][1] = score
+
+with open(USERLIST, "w") as f:
+    f.write(json.dumps(users))
+
 rankings.sort()
 rankings.reverse()
 
