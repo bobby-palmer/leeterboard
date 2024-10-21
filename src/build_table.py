@@ -13,6 +13,9 @@ rankings = []
 
 for username, user in users.items():
     res = requests.get(BASE_URL + username).json()
+    while res['status'] != 'success':
+        res = requests.get(BASE_URL + username).json()
+
     score = res["easySolved"] + 2 * res["mediumSolved"] + 3 * res["hardSolved"]
     rankings.append(
         (
