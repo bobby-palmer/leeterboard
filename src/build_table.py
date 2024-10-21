@@ -20,10 +20,11 @@ for username, user in users.items():
     rankings.append(
         (
             score,
-            user,
+            user[0],
             res["easySolved"],
             res["mediumSolved"],
             res["hardSolved"],
+            score - user[1],
         )
     )
 
@@ -39,7 +40,10 @@ with open("readme.md", "w") as f:
         f.write(line)
         if line.strip() == "## Leaderboard":
             break
-    f.write("| Name | Easy | Medium | Hard | Score |\n")
-    f.write("| --- | --- | --- | --- | --- |\n")
-    for score, user, easy, medium, hard in rankings:
-        f.write(f"| {user} | {easy} | {medium} | {hard} | {score} |\n")
+    f.write("| Name | Easy | Medium | Hard | Score | 1 Day Change |\n")
+    f.write("| --- | --- | --- | --- | --- | --- |\n")
+    for score, user, easy, medium, hard, change in rankings:
+        change_str = "-"
+        if change > 0:
+            change_str = f"$\\color{{green}}{{+{change}}}$"
+        f.write(f"| {user} | {easy} | {medium} | {hard} | {score} | {change_str} |\n")
