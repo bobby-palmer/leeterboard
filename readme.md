@@ -17,17 +17,17 @@ You score is calculated as:
 ## Leaderboard
 | Name | Easy | Medium | Hard | Score | 1 Day Change |
 | --- | --- | --- | --- | --- | --- |
-| Hrishikesh Bagalkote | 178 | 298 | 10 | 804 | $\color{green}{+1}$ |
-| Matthew Jia | 113 | 256 | 53 | 784 | $\color{green}{+2}$ |
-| Bobby Palmer | 54 | 177 | 95 | 693 | $\color{green}{+8}$ |
-| Arnav Shah | 71 | 207 | 51 | 638 | - |
+| Hrishikesh Bagalkote | 178 | 298 | 10 | 804 | - |
+| Matthew Jia | 113 | 256 | 53 | 784 | - |
+| Bobby Palmer | 54 | 177 | 95 | 693 | - |
+| Arnav Shah | 71 | 208 | 51 | 640 | $\color{green}{+2}$ |
 | Rithvik Vanga | 36 | 230 | 43 | 625 | - |
 | Nikhil Patel | 75 | 192 | 27 | 540 | - |
 | Aaron Rahman | 44 | 148 | 41 | 463 | - |
 | Aarin Salot | 89 | 171 | 10 | 461 | - |
 | Charles Huang | 42 | 182 | 17 | 457 | - |
 | Conner Rose | 76 | 117 | 38 | 424 | - |
-| David McDermott | 86 | 120 | 21 | 389 | $\color{green}{+2}$ |
+| David McDermott | 86 | 120 | 21 | 389 | - |
 | Batu Engin | 57 | 78 | 2 | 219 | - |
 | Nikhil Goli | 28 | 75 | 11 | 211 | - |
 | Nico FB | 16 | 23 | 5 | 77 | - |
