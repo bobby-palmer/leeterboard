@@ -33,3 +33,5 @@ You score is calculated as:
 | Nico FB | 16 | 23 | 5 | 77 | - |
 | Aiden Mizhen | 9 | 7 | 5 | 38 | - |
 | Jad Alaoui | 7 | 2 | 0 | 11 | - |
+| Carey Wang | 2 | 0 | 0 | 2 | $\color{green}{+2}$ |
+| Aneesh Kumar | 0 | 0 | 0 | 0 | - |

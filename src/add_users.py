@@ -25,7 +25,7 @@ res = requests.get(BASE_URL + username).json()
 if res["status"] != "success":
     exit(0)
 
-users[username] = f"{firstname} {lastname}"
+users[username] = (f"{firstname} {lastname}", 0)
 
 with open(USERLIST, "w") as output:
     output.write(json.dumps(users))
