@@ -22,7 +22,7 @@ You score is calculated as:
 | Bobby Palmer | 54 | 180 | 97 | 705 | $\color{green}{+10}$ |
 | Arnav Shah | 73 | 215 | 52 | 659 | $\color{green}{+15}$ |
 | Rithvik Vanga | 36 | 230 | 43 | 625 | - |
-| Roee Tsimhoni | 72 | 187 | 42 | 572 | $\color{green}{+6}$ |
+| Roee Tsimhoni | 72 | 188 | 44 | 580 | $\color{green}{+14}$ |
 | Nikhil Patel | 75 | 192 | 27 | 540 | - |
 | Aaron Rahman | 44 | 148 | 41 | 463 | - |
 | Aarin Salot | 89 | 171 | 10 | 461 | - |
@@ -31,6 +31,7 @@ You score is calculated as:
 | David McDermott | 87 | 123 | 22 | 399 | $\color{green}{+10}$ |
 | Batu Engin | 57 | 78 | 2 | 219 | - |
 | Nikhil Goli | 29 | 75 | 11 | 212 | $\color{green}{+1}$ |
+| Krish Kapoor | 33 | 69 | 8 | 195 | $\color{green}{+195}$ |
 | Nico FB | 16 | 23 | 5 | 77 | - |
 | Aiden Mizhen | 9 | 7 | 5 | 38 | - |
 | Jad Alaoui | 7 | 2 | 0 | 11 | - |
