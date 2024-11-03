@@ -2,7 +2,7 @@ import json
 
 import requests
 
-BASE_URL = "https://leetcode-stats-api.herokuapp.com/"
+BASE_URL = "https://alfa-leetcode-api.onrender.com/"
 USERLIST = "bin/users.json"
 
 with open(USERLIST, "r") as u:
@@ -12,9 +12,13 @@ with open(USERLIST, "r") as u:
 rankings = []
 
 for username, user in users.items():
-    res = requests.get(BASE_URL + username).json()
-    while res['status'] != 'success':
-        res = requests.get(BASE_URL + username).json()
+    print("getting " + username)
+    res = requests.get(BASE_URL + username + "/solved")
+
+    while res.status_code != 200:
+        res = requests.get(BASE_URL + username + "/solved")
+
+    res = res.json()
 
     score = res["easySolved"] + 2 * res["mediumSolved"] + 3 * res["hardSolved"]
     rankings.append(
