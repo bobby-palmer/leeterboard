@@ -3,7 +3,7 @@ import sys
 
 import requests
 
-BASE_URL = "https://leetcode-stats-api.herokuapp.com/"
+BASE_URL = "https://alfa-leetcode-api.onrender.com/"
 USERLIST = "bin/users.json"
 
 with open(USERLIST, "r") as u:
@@ -22,7 +22,7 @@ if username in users.keys():
 
 res = requests.get(BASE_URL + username).json()
 
-if res["status"] != "success":
+if "errors" in res:
     exit(0)
 
 users[username] = (f"{firstname} {lastname}", 0)
