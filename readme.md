@@ -33,7 +33,7 @@ You score is calculated as:
 | Nikhil Goli | 30 | 76 | 11 | 215 | - |
 | Krish Kapoor | 36 | 72 | 9 | 207 | - |
 | Nico FB | 16 | 23 | 5 | 77 | - |
-| Aiden Mizhen | 9 | 8 | 5 | 40 | $\color{green}{+2}$ |
+| Aiden Mizhen | 9 | 8 | 5 | 40 | - |
 | Jad Alaoui | 7 | 2 | 0 | 11 | - |
 | Carey Wang | 2 | 0 | 0 | 2 | - |
 | Aneesh Kumar | 1 | 0 | 0 | 1 | - |
