@@ -28,10 +28,10 @@ You score is calculated as:
 | Aarin Salot | 89 | 171 | 10 | 461 | - |
 | Charles Huang | 42 | 182 | 17 | 457 | - |
 | Conner Rose | 77 | 117 | 38 | 425 | - |
-| David McDermott | 91 | 126 | 22 | 409 | $\color{green}{+2}$ |
+| David McDermott | 91 | 126 | 22 | 409 | - |
 | Batu Engin | 57 | 78 | 2 | 219 | - |
 | Nikhil Goli | 30 | 76 | 11 | 215 | - |
-| Krish Kapoor | 36 | 72 | 9 | 207 | - |
+| Krish Kapoor | 36 | 73 | 9 | 209 | $\color{green}{+2}$ |
 | Nico FB | 16 | 23 | 5 | 77 | - |
 | Aiden Mizhen | 9 | 8 | 5 | 40 | - |
 | Jad Alaoui | 7 | 2 | 0 | 11 | - |
