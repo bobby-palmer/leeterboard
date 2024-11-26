@@ -29,11 +29,11 @@ You score is calculated as:
 | Charles Huang | 42 | 182 | 17 | 457 | - |
 | Conner Rose | 77 | 118 | 38 | 427 | - |
 | David McDermott | 93 | 131 | 22 | 421 | - |
+| Krish Kapoor | 37 | 78 | 10 | 223 | $\color{green}{+6}$ |
 | Batu Engin | 57 | 78 | 2 | 219 | - |
 | Nikhil Goli | 30 | 77 | 11 | 217 | - |
-| Krish Kapoor | 37 | 75 | 10 | 217 | $\color{green}{+5}$ |
 | Nico FB | 16 | 23 | 5 | 77 | - |
-| Aiden Mizhen | 12 | 12 | 6 | 54 | $\color{green}{+11}$ |
+| Aiden Mizhen | 12 | 12 | 6 | 54 | - |
 | Jad Alaoui | 7 | 2 | 0 | 11 | - |
 | Aneesh Kumar | 1 | 1 | 0 | 3 | - |
 | Carey Wang | 2 | 0 | 0 | 2 | - |
