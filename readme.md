@@ -31,9 +31,9 @@ You score is calculated as:
 | David McDermott | 93 | 131 | 22 | 421 | - |
 | Krish Kapoor | 37 | 78 | 10 | 223 | - |
 | Batu Engin | 57 | 78 | 2 | 219 | - |
-| Nikhil Goli | 31 | 77 | 11 | 218 | $\color{green}{+1}$ |
+| Nikhil Goli | 31 | 77 | 11 | 218 | - |
 | Nico FB | 16 | 23 | 5 | 77 | - |
-| Aiden Mizhen | 13 | 13 | 6 | 57 | $\color{green}{+3}$ |
+| Aiden Mizhen | 13 | 13 | 6 | 57 | - |
 | Jad Alaoui | 7 | 2 | 0 | 11 | - |
 | Aneesh Kumar | 1 | 1 | 0 | 3 | - |
 | Carey Wang | 2 | 0 | 0 | 2 | - |
