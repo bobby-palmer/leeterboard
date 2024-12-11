@@ -18,10 +18,10 @@ You score is calculated as:
 | Name | Easy | Medium | Hard | Score | 1 Day Change |
 | --- | --- | --- | --- | --- | --- |
 | Hrishikesh Bagalkote | 178 | 301 | 12 | 816 | - |
-| Matthew Jia | 116 | 263 | 55 | 807 | - |
-| Bobby Palmer | 60 | 206 | 99 | 769 | $\color{green}{+2}$ |
-| Arnav Shah | 75 | 220 | 52 | 671 | $\color{green}{+2}$ |
-| Roee Tsimhoni | 75 | 197 | 56 | 637 | - |
+| Matthew Jia | 117 | 264 | 55 | 810 | $\color{green}{+3}$ |
+| Bobby Palmer | 60 | 207 | 99 | 771 | $\color{green}{+2}$ |
+| Arnav Shah | 75 | 220 | 52 | 671 | - |
+| Roee Tsimhoni | 75 | 198 | 56 | 639 | $\color{green}{+2}$ |
 | Rithvik Vanga | 36 | 230 | 43 | 625 | - |
 | Nikhil Patel | 75 | 192 | 27 | 540 | - |
 | Aaron Rahman | 44 | 148 | 41 | 463 | - |
