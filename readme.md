@@ -30,8 +30,8 @@ You score is calculated as:
 | Conner Rose | 78 | 121 | 38 | 434 | - |
 | David McDermott | 94 | 132 | 22 | 424 | - |
 | Krish Kapoor | 37 | 80 | 10 | 227 | - |
+| Nikhil Goli | 33 | 77 | 11 | 220 | $\color{green}{+2}$ |
 | Batu Engin | 57 | 78 | 2 | 219 | - |
-| Nikhil Goli | 31 | 77 | 11 | 218 | - |
 | Aiden Mizhen | 18 | 27 | 7 | 93 | - |
 | Nico FB | 16 | 23 | 5 | 77 | - |
 | Jad Alaoui | 8 | 2 | 0 | 12 | - |
