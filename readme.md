@@ -19,8 +19,8 @@ You score is calculated as:
 | --- | --- | --- | --- | --- | --- |
 | Hrishikesh Bagalkote | 178 | 301 | 12 | 816 | - |
 | Matthew Jia | 117 | 264 | 55 | 810 | - |
-| Bobby Palmer | 61 | 212 | 99 | 782 | - |
-| Arnav Shah | 75 | 220 | 52 | 671 | - |
+| Bobby Palmer | 62 | 212 | 99 | 783 | $\color{green}{+1}$ |
+| Arnav Shah | 76 | 220 | 52 | 672 | $\color{green}{+1}$ |
 | Roee Tsimhoni | 75 | 198 | 56 | 639 | - |
 | Rithvik Vanga | 36 | 230 | 43 | 625 | - |
 | Nikhil Patel | 75 | 192 | 27 | 540 | - |
@@ -30,7 +30,7 @@ You score is calculated as:
 | Conner Rose | 78 | 121 | 38 | 434 | - |
 | David McDermott | 94 | 132 | 22 | 424 | - |
 | Krish Kapoor | 37 | 80 | 10 | 227 | - |
-| Nikhil Goli | 33 | 77 | 11 | 220 | $\color{green}{+2}$ |
+| Nikhil Goli | 34 | 77 | 11 | 221 | $\color{green}{+1}$ |
 | Batu Engin | 57 | 78 | 2 | 219 | - |
 | Aiden Mizhen | 18 | 27 | 7 | 93 | - |
 | Nico FB | 16 | 23 | 5 | 77 | - |
