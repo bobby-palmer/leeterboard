@@ -17,7 +17,7 @@ You score is calculated as:
 ## Leaderboard
 | Name | Easy | Medium | Hard | Score | 1 Day Change |
 | --- | --- | --- | --- | --- | --- |
-| Bobby Palmer | 66 | 233 | 102 | 838 | $\color{green}{+2}$ |
+| Bobby Palmer | 66 | 233 | 102 | 838 | - |
 | Matthew Jia | 118 | 270 | 57 | 829 | - |
 | Hrishikesh Bagalkote | 178 | 301 | 12 | 816 | - |
 | Arnav Shah | 76 | 223 | 52 | 678 | - |
