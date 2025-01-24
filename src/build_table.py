@@ -20,7 +20,7 @@ for username, user in users.items():
 
     res = res.json()
 
-    score = res["easySolved"] + 2 * res["mediumSolved"] + 3 * res["hardSolved"]
+    score = res["easySolved"] + 3 * res["mediumSolved"] + 6 * res["hardSolved"]
     rankings.append(
         (
             score,
