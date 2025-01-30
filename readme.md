@@ -20,9 +20,9 @@ You score is calculated as:
 | Jim Xiong | 116 | 310 | 59 | 1400 | - |
 | Bobby Palmer | 66 | 236 | 102 | 1386 | - |
 | Matthew Jia | 118 | 271 | 57 | 1273 | - |
-| Hrishikesh Bagalkote | 178 | 302 | 12 | 1156 | $\color{green}{+3}$ |
-| Arnav Shah | 76 | 224 | 52 | 1060 | $\color{green}{+3}$ |
-| Roee Tsimhoni | 75 | 199 | 56 | 1008 | $\color{green}{+3}$ |
+| Hrishikesh Bagalkote | 178 | 303 | 12 | 1159 | $\color{green}{+3}$ |
+| Arnav Shah | 76 | 224 | 52 | 1060 | - |
+| Roee Tsimhoni | 75 | 199 | 56 | 1008 | - |
 | Rithvik Vanga | 36 | 230 | 43 | 984 | - |
 | Nikhil Patel | 75 | 192 | 27 | 813 | - |
 | Aaron Rahman | 44 | 148 | 41 | 734 | - |
@@ -35,6 +35,6 @@ You score is calculated as:
 | Batu Engin | 57 | 78 | 2 | 303 | - |
 | Aiden Mizhen | 18 | 27 | 7 | 141 | - |
 | Nico FB | 16 | 23 | 5 | 115 | - |
-| Jad Alaoui | 16 | 2 | 0 | 22 | - |
+| Jad Alaoui | 18 | 3 | 0 | 27 | $\color{green}{+5}$ |
 | Aneesh Kumar | 1 | 2 | 0 | 7 | - |
 | Carey Wang | 2 | 0 | 0 | 2 | - |
