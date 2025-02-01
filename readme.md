@@ -18,9 +18,9 @@ You score is calculated as:
 | Name | Easy | Medium | Hard | Score | 1 Day Change |
 | --- | --- | --- | --- | --- | --- |
 | Jim Xiong | 116 | 310 | 59 | 1400 | - |
-| Bobby Palmer | 66 | 236 | 102 | 1386 | - |
+| Bobby Palmer | 66 | 236 | 103 | 1392 | $\color{green}{+6}$ |
 | Matthew Jia | 118 | 271 | 57 | 1273 | - |
-| Hrishikesh Bagalkote | 178 | 305 | 12 | 1165 | $\color{green}{+6}$ |
+| Hrishikesh Bagalkote | 178 | 305 | 12 | 1165 | - |
 | Arnav Shah | 76 | 224 | 52 | 1060 | - |
 | Roee Tsimhoni | 75 | 199 | 56 | 1008 | - |
 | Rithvik Vanga | 36 | 230 | 43 | 984 | - |
@@ -29,12 +29,12 @@ You score is calculated as:
 | Aarin Salot | 89 | 177 | 14 | 704 | - |
 | Charles Huang | 42 | 182 | 17 | 690 | - |
 | Conner Rose | 79 | 126 | 38 | 685 | - |
-| David McDermott | 111 | 143 | 22 | 672 | $\color{green}{+3}$ |
+| David McDermott | 111 | 143 | 22 | 672 | - |
 | Krish Kapoor | 37 | 80 | 10 | 337 | - |
 | Nikhil Goli | 34 | 78 | 11 | 334 | - |
 | Batu Engin | 57 | 78 | 2 | 303 | - |
 | Aiden Mizhen | 18 | 27 | 7 | 141 | - |
 | Nico FB | 16 | 23 | 5 | 115 | - |
-| Jad Alaoui | 18 | 3 | 0 | 27 | - |
+| Jad Alaoui | 23 | 3 | 0 | 32 | $\color{green}{+5}$ |
 | Aneesh Kumar | 1 | 2 | 0 | 7 | - |
 | Carey Wang | 2 | 0 | 0 | 2 | - |
