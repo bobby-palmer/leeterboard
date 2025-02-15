@@ -17,10 +17,10 @@ You score is calculated as:
 ## Leaderboard
 | Name | Easy | Medium | Hard | Score | 1 Day Change |
 | --- | --- | --- | --- | --- | --- |
-| Jim Xiong | 116 | 324 | 62 | 1460 | $\color{green}{+3}$ |
-| Bobby Palmer | 69 | 239 | 103 | 1404 | - |
+| Jim Xiong | 116 | 324 | 62 | 1460 | - |
+| Bobby Palmer | 69 | 240 | 103 | 1407 | $\color{green}{+3}$ |
 | Matthew Jia | 118 | 271 | 57 | 1273 | - |
-| Hrishikesh Bagalkote | 181 | 311 | 12 | 1186 | $\color{green}{+3}$ |
+| Hrishikesh Bagalkote | 181 | 312 | 12 | 1189 | $\color{green}{+3}$ |
 | Arnav Shah | 76 | 224 | 52 | 1060 | - |
 | Roee Tsimhoni | 75 | 199 | 56 | 1008 | - |
 | Rithvik Vanga | 36 | 230 | 43 | 984 | - |
@@ -29,7 +29,7 @@ You score is calculated as:
 | Aarin Salot | 89 | 177 | 14 | 704 | - |
 | Charles Huang | 42 | 182 | 17 | 690 | - |
 | Conner Rose | 79 | 127 | 38 | 688 | - |
-| David McDermott | 111 | 145 | 22 | 678 | $\color{green}{+3}$ |
+| David McDermott | 111 | 145 | 22 | 678 | - |
 | Krish Kapoor | 38 | 80 | 10 | 338 | - |
 | Nikhil Goli | 34 | 78 | 11 | 334 | - |
 | Batu Engin | 57 | 78 | 2 | 303 | - |
