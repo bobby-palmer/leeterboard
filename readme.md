@@ -35,6 +35,6 @@ You score is calculated as:
 | Batu Engin | 57 | 78 | 2 | 303 | - |
 | Aiden Mizhen | 18 | 27 | 7 | 141 | - |
 | Nico FB | 16 | 23 | 5 | 115 | - |
-| Jad Alaoui | 47 | 6 | 1 | 71 | - |
+| Jad Alaoui | 47 | 7 | 1 | 74 | $\color{green}{+3}$ |
 | Aneesh Kumar | 1 | 2 | 0 | 7 | - |
 | Carey Wang | 2 | 0 | 0 | 2 | - |
