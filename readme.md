@@ -18,7 +18,7 @@ You score is calculated as:
 | Name | Easy | Medium | Hard | Score | 1 Day Change |
 | --- | --- | --- | --- | --- | --- |
 | Jim Xiong | 116 | 324 | 62 | 1460 | - |
-| Bobby Palmer | 69 | 243 | 104 | 1422 | $\color{green}{+6}$ |
+| Bobby Palmer | 69 | 243 | 104 | 1422 | - |
 | Matthew Jia | 118 | 271 | 57 | 1273 | - |
 | Hrishikesh Bagalkote | 181 | 315 | 12 | 1198 | - |
 | Arnav Shah | 76 | 224 | 52 | 1060 | - |
@@ -27,10 +27,10 @@ You score is calculated as:
 | Nikhil Patel | 75 | 192 | 27 | 813 | - |
 | Aaron Rahman | 44 | 148 | 41 | 734 | - |
 | Aarin Salot | 89 | 177 | 14 | 704 | - |
-| Conner Rose | 79 | 128 | 39 | 697 | $\color{green}{+6}$ |
+| Conner Rose | 79 | 128 | 39 | 697 | - |
 | Charles Huang | 42 | 182 | 17 | 690 | - |
 | David McDermott | 111 | 145 | 22 | 678 | - |
-| Nikhil Goli | 35 | 79 | 11 | 338 | $\color{green}{+3}$ |
+| Nikhil Goli | 35 | 80 | 11 | 341 | $\color{green}{+3}$ |
 | Krish Kapoor | 38 | 80 | 10 | 338 | - |
 | Batu Engin | 57 | 78 | 2 | 303 | - |
 | Aiden Mizhen | 18 | 27 | 7 | 141 | - |
