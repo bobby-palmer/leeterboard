@@ -28,9 +28,9 @@ You score is calculated as:
 | Aaron Rahman | 44 | 148 | 41 | 734 | - |
 | Aarin Salot | 89 | 177 | 14 | 704 | - |
 | Conner Rose | 79 | 128 | 39 | 697 | - |
+| David McDermott | 112 | 149 | 22 | 691 | $\color{green}{+3}$ |
 | Charles Huang | 42 | 182 | 17 | 690 | - |
-| David McDermott | 112 | 148 | 22 | 688 | $\color{green}{+3}$ |
-| Nikhil Goli | 35 | 80 | 11 | 341 | - |
+| Nikhil Goli | 38 | 80 | 11 | 344 | $\color{green}{+3}$ |
 | Krish Kapoor | 38 | 80 | 10 | 338 | - |
 | Batu Engin | 57 | 78 | 2 | 303 | - |
 | Aiden Mizhen | 18 | 27 | 7 | 141 | - |
