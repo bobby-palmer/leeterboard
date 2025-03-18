@@ -25,7 +25,7 @@ You score is calculated as:
 | Roee Tsimhoni | 75 | 199 | 56 | 1008 | - |
 | Rithvik Vanga | 36 | 230 | 43 | 984 | - |
 | Nikhil Patel | 75 | 192 | 27 | 813 | - |
-| Aaron Rahman | 46 | 152 | 41 | 748 | - |
+| Aaron Rahman | 47 | 152 | 41 | 749 | $\color{green}{+1}$ |
 | Aarin Salot | 89 | 177 | 14 | 704 | - |
 | Conner Rose | 79 | 128 | 39 | 697 | - |
 | David McDermott | 112 | 150 | 22 | 694 | - |
