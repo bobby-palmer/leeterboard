@@ -18,7 +18,7 @@ You score is calculated as:
 | Name | Easy | Medium | Hard | Score | 1 Day Change |
 | --- | --- | --- | --- | --- | --- |
 | Jim Xiong | 120 | 327 | 62 | 1473 | - |
-| Bobby Palmer | 70 | 255 | 105 | 1465 | $\color{green}{+3}$ |
+| Bobby Palmer | 70 | 256 | 105 | 1468 | $\color{green}{+3}$ |
 | Matthew Jia | 118 | 271 | 57 | 1273 | - |
 | Hrishikesh Bagalkote | 182 | 319 | 12 | 1211 | - |
 | Arnav Shah | 77 | 224 | 52 | 1061 | - |
@@ -30,7 +30,7 @@ You score is calculated as:
 | Aarin Salot | 89 | 177 | 14 | 704 | - |
 | Conner Rose | 79 | 128 | 39 | 697 | - |
 | Charles Huang | 42 | 182 | 17 | 690 | - |
-| Nikhil Goli | 38 | 83 | 12 | 359 | $\color{green}{+6}$ |
+| Nikhil Goli | 38 | 83 | 12 | 359 | - |
 | Krish Kapoor | 38 | 80 | 10 | 338 | - |
 | Batu Engin | 57 | 78 | 2 | 303 | - |
 | Aiden Mizhen | 18 | 27 | 7 | 141 | - |
