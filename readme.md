@@ -21,7 +21,7 @@ You score is calculated as:
 | Jim Xiong | 120 | 327 | 62 | 1473 | - |
 | Matthew Jia | 119 | 271 | 57 | 1274 | - |
 | Hrishikesh Bagalkote | 183 | 320 | 12 | 1215 | - |
-| Arnav Shah | 79 | 227 | 52 | 1072 | $\color{green}{+1}$ |
+| Arnav Shah | 79 | 229 | 52 | 1078 | $\color{green}{+6}$ |
 | Roee Tsimhoni | 75 | 199 | 56 | 1008 | - |
 | Rithvik Vanga | 36 | 230 | 43 | 984 | - |
 | Nikhil Patel | 75 | 192 | 27 | 813 | - |
