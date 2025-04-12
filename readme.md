@@ -26,7 +26,7 @@ You score is calculated as:
 | Rithvik Vanga | 36 | 230 | 43 | 984 | - |
 | Nikhil Patel | 75 | 192 | 27 | 813 | - |
 | Aaron Rahman | 47 | 152 | 41 | 749 | - |
-| David McDermott | 114 | 153 | 22 | 705 | - |
+| David McDermott | 115 | 153 | 22 | 706 | $\color{green}{+1}$ |
 | Aarin Salot | 89 | 177 | 14 | 704 | - |
 | Conner Rose | 79 | 129 | 39 | 700 | - |
 | Charles Huang | 42 | 182 | 17 | 690 | - |
