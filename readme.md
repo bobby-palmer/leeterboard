@@ -17,8 +17,8 @@ You score is calculated as:
 ## Leaderboard
 | Name | Easy | Medium | Hard | Score | 1 Day Change |
 | --- | --- | --- | --- | --- | --- |
-| Bobby Palmer | 74 | 266 | 119 | 1586 | - |
-| Jim Xiong | 126 | 329 | 63 | 1491 | $\color{green}{+5}$ |
+| Bobby Palmer | 75 | 267 | 119 | 1590 | $\color{green}{+4}$ |
+| Jim Xiong | 126 | 329 | 63 | 1491 | - |
 | Matthew Jia | 119 | 271 | 57 | 1274 | - |
 | Hrishikesh Bagalkote | 185 | 320 | 14 | 1229 | - |
 | Arnav Shah | 80 | 229 | 52 | 1079 | - |
@@ -26,10 +26,10 @@ You score is calculated as:
 | Rithvik Vanga | 36 | 230 | 43 | 984 | - |
 | Nikhil Patel | 75 | 192 | 27 | 813 | - |
 | Aaron Rahman | 47 | 152 | 41 | 749 | - |
-| David McDermott | 116 | 153 | 22 | 707 | - |
+| David McDermott | 117 | 159 | 22 | 726 | $\color{green}{+19}$ |
 | Aarin Salot | 89 | 177 | 14 | 704 | - |
 | Conner Rose | 80 | 129 | 39 | 701 | - |
-| Charles Huang | 42 | 183 | 18 | 699 | $\color{green}{+9}$ |
+| Charles Huang | 42 | 183 | 18 | 699 | - |
 | Nikhil Goli | 43 | 83 | 14 | 376 | - |
 | Krish Kapoor | 40 | 82 | 10 | 346 | - |
 | Batu Engin | 57 | 78 | 2 | 303 | - |
