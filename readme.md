@@ -17,20 +17,20 @@ You score is calculated as:
 ## Leaderboard
 | Name | Easy | Medium | Hard | Score | 1 Day Change |
 | --- | --- | --- | --- | --- | --- |
-| Bobby Palmer | 77 | 269 | 126 | 1640 | $\color{green}{+12}$ |
+| Bobby Palmer | 77 | 269 | 126 | 1640 | - |
 | Jim Xiong | 126 | 333 | 63 | 1503 | - |
-| Matthew Jia | 122 | 276 | 59 | 1304 | $\color{green}{+3}$ |
+| Matthew Jia | 122 | 276 | 59 | 1304 | - |
 | Hrishikesh Bagalkote | 186 | 323 | 16 | 1251 | - |
 | Arnav Shah | 80 | 229 | 52 | 1079 | - |
-| Roee Tsimhoni | 75 | 199 | 56 | 1008 | - |
+| Roee Tsimhoni | 76 | 200 | 56 | 1012 | $\color{green}{+4}$ |
 | Rithvik Vanga | 36 | 230 | 43 | 984 | - |
 | Nikhil Patel | 75 | 192 | 27 | 813 | - |
 | Aaron Rahman | 47 | 152 | 41 | 749 | - |
-| David McDermott | 118 | 165 | 22 | 745 | - |
-| Charles Huang | 44 | 186 | 19 | 716 | $\color{green}{+9}$ |
+| David McDermott | 118 | 166 | 22 | 748 | $\color{green}{+3}$ |
+| Charles Huang | 44 | 187 | 20 | 725 | $\color{green}{+9}$ |
 | Conner Rose | 80 | 129 | 40 | 707 | - |
 | Aarin Salot | 89 | 177 | 14 | 704 | - |
-| Nikhil Goli | 44 | 86 | 14 | 386 | $\color{green}{+1}$ |
+| Nikhil Goli | 44 | 86 | 14 | 386 | - |
 | Krish Kapoor | 40 | 82 | 10 | 346 | - |
 | Batu Engin | 57 | 78 | 2 | 303 | - |
 | Aiden Mizhen | 18 | 27 | 7 | 141 | - |
