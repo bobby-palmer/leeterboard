@@ -19,15 +19,15 @@ You score is calculated as:
 | --- | --- | --- | --- | --- | --- |
 | Bobby Palmer | 78 | 269 | 126 | 1641 | - |
 | Jim Xiong | 126 | 334 | 63 | 1506 | - |
-| Matthew Jia | 126 | 280 | 60 | 1326 | $\color{green}{+13}$ |
-| Hrishikesh Bagalkote | 189 | 326 | 22 | 1299 | $\color{green}{+22}$ |
+| Matthew Jia | 126 | 280 | 60 | 1326 | - |
+| Hrishikesh Bagalkote | 189 | 326 | 22 | 1299 | - |
 | Arnav Shah | 82 | 231 | 55 | 1105 | - |
 | Roee Tsimhoni | 77 | 201 | 57 | 1022 | - |
 | Rithvik Vanga | 36 | 230 | 43 | 984 | - |
 | Nikhil Patel | 75 | 192 | 27 | 813 | - |
-| Charles Huang | 48 | 195 | 22 | 765 | $\color{green}{+23}$ |
-| David McDermott | 120 | 170 | 22 | 762 | $\color{green}{+10}$ |
-| Aaron Rahman | 48 | 153 | 41 | 753 | $\color{green}{+1}$ |
+| Charles Huang | 48 | 195 | 22 | 765 | - |
+| David McDermott | 120 | 170 | 22 | 762 | - |
+| Aaron Rahman | 48 | 153 | 41 | 753 | - |
 | Conner Rose | 80 | 129 | 40 | 707 | - |
 | Aarin Salot | 89 | 177 | 14 | 704 | - |
 | Nikhil Goli | 44 | 88 | 14 | 392 | - |
