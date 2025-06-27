@@ -25,12 +25,12 @@ You score is calculated as:
 | Roee Tsimhoni | 80 | 207 | 59 | 1055 | - |
 | Rithvik Vanga | 36 | 230 | 43 | 984 | - |
 | Nikhil Patel | 75 | 192 | 27 | 813 | - |
-| David McDermott | 123 | 180 | 22 | 795 | $\color{green}{+3}$ |
+| David McDermott | 123 | 180 | 22 | 795 | - |
 | Charles Huang | 48 | 195 | 22 | 765 | - |
 | Conner Rose | 80 | 137 | 45 | 761 | - |
 | Aaron Rahman | 48 | 153 | 41 | 753 | - |
 | Aarin Salot | 89 | 177 | 14 | 704 | - |
-| Nikhil Goli | 44 | 98 | 15 | 428 | - |
+| Nikhil Goli | 44 | 100 | 15 | 434 | $\color{green}{+6}$ |
 | Krish Kapoor | 40 | 82 | 10 | 346 | - |
 | Batu Engin | 57 | 78 | 2 | 303 | - |
 | Aiden Mizhen | 19 | 29 | 7 | 148 | - |
