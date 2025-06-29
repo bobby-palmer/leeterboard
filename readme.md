@@ -30,7 +30,7 @@ You score is calculated as:
 | Conner Rose | 80 | 137 | 45 | 761 | - |
 | Aaron Rahman | 48 | 153 | 41 | 753 | - |
 | Aarin Salot | 89 | 177 | 14 | 704 | - |
-| Nikhil Goli | 44 | 101 | 15 | 437 | $\color{green}{+3}$ |
+| Nikhil Goli | 44 | 101 | 15 | 437 | - |
 | Krish Kapoor | 40 | 82 | 10 | 346 | - |
 | Batu Engin | 57 | 78 | 2 | 303 | - |
 | Aiden Mizhen | 19 | 29 | 7 | 148 | - |
