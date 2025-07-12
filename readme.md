@@ -17,11 +17,11 @@ You score is calculated as:
 ## Leaderboard
 | Name | Easy | Medium | Hard | Score | 1 Day Change |
 | --- | --- | --- | --- | --- | --- |
-| Bobby Palmer | 81 | 278 | 131 | 1701 | $\color{green}{+3}$ |
-| Jim Xiong | 126 | 338 | 63 | 1518 | $\color{green}{+6}$ |
+| Bobby Palmer | 81 | 279 | 132 | 1710 | $\color{green}{+9}$ |
+| Jim Xiong | 126 | 338 | 63 | 1518 | - |
 | Hrishikesh Bagalkote | 206 | 346 | 39 | 1478 | - |
 | Matthew Jia | 136 | 296 | 66 | 1420 | - |
-| Arnav Shah | 82 | 234 | 56 | 1120 | $\color{green}{+3}$ |
+| Arnav Shah | 82 | 234 | 56 | 1120 | - |
 | Roee Tsimhoni | 80 | 207 | 59 | 1055 | - |
 | Rithvik Vanga | 36 | 230 | 43 | 984 | - |
 | Nikhil Patel | 75 | 192 | 27 | 813 | - |
