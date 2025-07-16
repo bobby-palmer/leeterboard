@@ -17,23 +17,23 @@ You score is calculated as:
 ## Leaderboard
 | Name | Easy | Medium | Hard | Score | 1 Day Change |
 | --- | --- | --- | --- | --- | --- |
-| Bobby Palmer | 81 | 280 | 136 | 1737 | $\color{green}{+15}$ |
-| Jim Xiong | 126 | 338 | 63 | 1518 | - |
-| Hrishikesh Bagalkote | 206 | 346 | 39 | 1478 | - |
+| Bobby Palmer | 82 | 280 | 137 | 1744 | $\color{green}{+7}$ |
+| Jim Xiong | 126 | 339 | 64 | 1527 | $\color{green}{+9}$ |
+| Hrishikesh Bagalkote | 206 | 347 | 39 | 1481 | $\color{green}{+3}$ |
 | Matthew Jia | 136 | 296 | 66 | 1420 | - |
 | Arnav Shah | 82 | 234 | 56 | 1120 | - |
 | Roee Tsimhoni | 81 | 207 | 59 | 1056 | - |
 | Rithvik Vanga | 36 | 230 | 43 | 984 | - |
-| David McDermott | 125 | 186 | 22 | 815 | $\color{green}{+3}$ |
+| David McDermott | 125 | 186 | 22 | 815 | - |
 | Nikhil Patel | 75 | 192 | 27 | 813 | - |
-| Conner Rose | 80 | 141 | 45 | 773 | - |
+| Conner Rose | 80 | 141 | 46 | 779 | $\color{green}{+6}$ |
 | Charles Huang | 48 | 195 | 22 | 765 | - |
 | Aaron Rahman | 51 | 154 | 41 | 759 | - |
 | Aarin Salot | 89 | 177 | 14 | 704 | - |
 | Nikhil Goli | 44 | 101 | 15 | 437 | - |
 | Krish Kapoor | 40 | 82 | 10 | 346 | - |
 | Batu Engin | 57 | 78 | 2 | 303 | - |
-| Aiden Mizhen | 21 | 34 | 7 | 165 | $\color{green}{+12}$ |
+| Aiden Mizhen | 21 | 34 | 7 | 165 | - |
 | Nico FB | 16 | 23 | 5 | 115 | - |
 | Jad Alaoui | 47 | 7 | 1 | 74 | - |
 | Aneesh Kumar | 13 | 4 | 1 | 31 | - |
