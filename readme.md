@@ -19,14 +19,14 @@ You score is calculated as:
 | --- | --- | --- | --- | --- | --- |
 | Bobby Palmer | 82 | 281 | 139 | 1759 | - |
 | Jim Xiong | 127 | 340 | 74 | 1591 | - |
-| Hrishikesh Bagalkote | 206 | 347 | 39 | 1481 | - |
-| Matthew Jia | 137 | 296 | 67 | 1427 | $\color{green}{+7}$ |
-| Arnav Shah | 82 | 234 | 56 | 1120 | - |
+| Hrishikesh Bagalkote | 207 | 347 | 39 | 1482 | $\color{green}{+1}$ |
+| Matthew Jia | 137 | 296 | 68 | 1433 | $\color{green}{+6}$ |
+| Arnav Shah | 83 | 234 | 56 | 1121 | $\color{green}{+1}$ |
 | Roee Tsimhoni | 81 | 207 | 59 | 1056 | - |
 | Rithvik Vanga | 36 | 230 | 43 | 984 | - |
-| David McDermott | 125 | 186 | 22 | 815 | - |
+| David McDermott | 126 | 186 | 22 | 816 | $\color{green}{+1}$ |
 | Nikhil Patel | 75 | 192 | 27 | 813 | - |
-| Conner Rose | 80 | 141 | 46 | 779 | - |
+| Conner Rose | 80 | 141 | 48 | 791 | $\color{green}{+12}$ |
 | Charles Huang | 48 | 195 | 22 | 765 | - |
 | Aaron Rahman | 52 | 154 | 41 | 760 | - |
 | Aarin Salot | 89 | 177 | 14 | 704 | - |
