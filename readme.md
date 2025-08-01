@@ -17,7 +17,7 @@ You score is calculated as:
 ## Leaderboard
 | Name | Easy | Medium | Hard | Score | 1 Day Change |
 | --- | --- | --- | --- | --- | --- |
-| Bobby Palmer | 82 | 284 | 143 | 1792 | - |
+| Bobby Palmer | 83 | 285 | 143 | 1796 | $\color{green}{+4}$ |
 | Jim Xiong | 127 | 340 | 76 | 1603 | - |
 | Hrishikesh Bagalkote | 207 | 347 | 41 | 1494 | - |
 | Ruyi Li | 105 | 268 | 89 | 1443 | - |
@@ -28,7 +28,7 @@ You score is calculated as:
 | David McDermott | 126 | 187 | 22 | 819 | - |
 | Nikhil Patel | 75 | 192 | 27 | 813 | - |
 | Conner Rose | 80 | 141 | 48 | 791 | - |
-| Charles Huang | 49 | 196 | 23 | 775 | - |
+| Charles Huang | 49 | 197 | 23 | 778 | $\color{green}{+3}$ |
 | Aaron Rahman | 53 | 154 | 41 | 761 | - |
 | Aarin Salot | 89 | 177 | 14 | 704 | - |
 | Nikhil Goli | 44 | 101 | 15 | 437 | - |
