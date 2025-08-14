@@ -25,11 +25,11 @@ You score is calculated as:
 | Arnav Shah | 83 | 234 | 56 | 1121 | - |
 | Roee Tsimhoni | 81 | 207 | 59 | 1056 | - |
 | Rithvik Vanga | 36 | 230 | 43 | 984 | - |
-| David McDermott | 130 | 196 | 22 | 850 | $\color{green}{+3}$ |
-| Charles Huang | 51 | 203 | 26 | 816 | $\color{green}{+3}$ |
+| David McDermott | 131 | 196 | 22 | 851 | $\color{green}{+1}$ |
+| Charles Huang | 52 | 205 | 26 | 823 | $\color{green}{+7}$ |
+| Conner Rose | 80 | 145 | 50 | 815 | $\color{green}{+3}$ |
 | Nikhil Patel | 75 | 192 | 27 | 813 | - |
-| Conner Rose | 80 | 144 | 50 | 812 | - |
-| Aaron Rahman | 55 | 155 | 41 | 766 | - |
+| Aaron Rahman | 56 | 155 | 41 | 767 | $\color{green}{+1}$ |
 | Aarin Salot | 89 | 177 | 14 | 704 | - |
 | Nikhil Goli | 44 | 101 | 15 | 437 | - |
 | Krish Kapoor | 42 | 82 | 10 | 348 | - |
