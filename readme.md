@@ -19,8 +19,8 @@ You score is calculated as:
 | --- | --- | --- | --- | --- | --- |
 | Bobby Palmer | 86 | 302 | 146 | 1868 | - |
 | Jim Xiong | 127 | 340 | 76 | 1603 | - |
-| Hrishikesh Bagalkote | 209 | 356 | 49 | 1571 | $\color{green}{+7}$ |
-| Matthew Jia | 137 | 298 | 72 | 1463 | - |
+| Hrishikesh Bagalkote | 209 | 356 | 49 | 1571 | - |
+| Matthew Jia | 137 | 298 | 73 | 1469 | $\color{green}{+6}$ |
 | Ruyi Li | 106 | 268 | 89 | 1444 | - |
 | Arnav Shah | 85 | 236 | 56 | 1129 | - |
 | Roee Tsimhoni | 81 | 211 | 60 | 1074 | - |
