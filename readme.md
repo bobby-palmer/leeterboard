@@ -25,7 +25,7 @@ You score is calculated as:
 | Arnav Shah | 85 | 236 | 56 | 1129 | - |
 | Roee Tsimhoni | 81 | 212 | 61 | 1083 | - |
 | Rithvik Vanga | 36 | 230 | 43 | 984 | - |
-| Charles Huang | 56 | 236 | 27 | 926 | $\color{green}{+3}$ |
+| Charles Huang | 56 | 236 | 27 | 926 | - |
 | David McDermott | 134 | 201 | 23 | 875 | - |
 | Conner Rose | 80 | 145 | 50 | 815 | - |
 | Nikhil Patel | 75 | 192 | 27 | 813 | - |
@@ -34,7 +34,7 @@ You score is calculated as:
 | Nikhil Goli | 46 | 107 | 17 | 469 | - |
 | Krish Kapoor | 42 | 84 | 10 | 354 | - |
 | Batu Engin | 59 | 79 | 2 | 308 | - |
-| Aiden Mizhen | 21 | 34 | 7 | 165 | - |
+| Aiden Mizhen | 22 | 34 | 7 | 166 | $\color{green}{+1}$ |
 | Nico FB | 16 | 23 | 5 | 115 | - |
 | Jad Alaoui | 47 | 7 | 1 | 74 | - |
 | Aneesh Kumar | 13 | 4 | 1 | 31 | - |
