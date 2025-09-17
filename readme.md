@@ -34,7 +34,7 @@ You score is calculated as:
 | Nikhil Goli | 46 | 107 | 17 | 469 | - |
 | Krish Kapoor | 42 | 84 | 10 | 354 | - |
 | Batu Engin | 59 | 79 | 2 | 308 | - |
-| Aiden Mizhen | 22 | 34 | 7 | 166 | $\color{green}{+1}$ |
+| Aiden Mizhen | 22 | 34 | 7 | 166 | - |
 | Nico FB | 16 | 23 | 5 | 115 | - |
 | Jad Alaoui | 47 | 7 | 1 | 74 | - |
 | Aneesh Kumar | 13 | 4 | 1 | 31 | - |
