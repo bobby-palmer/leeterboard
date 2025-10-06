@@ -19,7 +19,7 @@ You score is calculated as:
 | --- | --- | --- | --- | --- | --- |
 | Bobby Palmer | 88 | 308 | 146 | 1888 | - |
 | Jim Xiong | 127 | 340 | 76 | 1603 | - |
-| Hrishikesh Bagalkote | 212 | 358 | 49 | 1580 | $\color{green}{+1}$ |
+| Hrishikesh Bagalkote | 212 | 358 | 49 | 1580 | - |
 | Matthew Jia | 137 | 298 | 73 | 1469 | - |
 | Ruyi Li | 106 | 268 | 89 | 1444 | - |
 | Arnav Shah | 85 | 236 | 56 | 1129 | - |
@@ -38,5 +38,5 @@ You score is calculated as:
 | Aiden Mizhen | 22 | 34 | 7 | 166 | - |
 | Nico FB | 18 | 24 | 5 | 120 | - |
 | Jad Alaoui | 47 | 7 | 1 | 74 | - |
-| Aneesh Kumar | 13 | 4 | 1 | 31 | - |
+| Aneesh Kumar | 13 | 5 | 1 | 34 | $\color{green}{+3}$ |
 | Carey Wang | 2 | 0 | 0 | 2 | - |
