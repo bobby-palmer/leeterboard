@@ -19,7 +19,7 @@ You score is calculated as:
 | --- | --- | --- | --- | --- | --- |
 | Bobby Palmer | 88 | 313 | 146 | 1903 | - |
 | Jim Xiong | 127 | 340 | 76 | 1603 | - |
-| Hrishikesh Bagalkote | 212 | 358 | 50 | 1586 | - |
+| Hrishikesh Bagalkote | 212 | 359 | 50 | 1589 | $\color{green}{+3}$ |
 | Matthew Jia | 137 | 298 | 73 | 1469 | - |
 | Ruyi Li | 106 | 268 | 89 | 1444 | - |
 | Arnav Shah | 85 | 236 | 56 | 1129 | - |
@@ -27,7 +27,7 @@ You score is calculated as:
 | Rithvik Vanga | 36 | 230 | 43 | 984 | - |
 | Charles Huang | 56 | 237 | 28 | 935 | - |
 | David McDermott | 134 | 201 | 23 | 875 | - |
-| Conner Rose | 80 | 146 | 51 | 824 | $\color{green}{+9}$ |
+| Conner Rose | 80 | 146 | 51 | 824 | - |
 | Nikhil Patel | 75 | 192 | 27 | 813 | - |
 | Aaron Rahman | 57 | 156 | 41 | 771 | - |
 | Aarin Salot | 89 | 177 | 14 | 704 | - |
@@ -35,8 +35,8 @@ You score is calculated as:
 | Krish Kapoor | 43 | 84 | 10 | 355 | - |
 | Batu Engin | 59 | 79 | 2 | 308 | - |
 | Rick Peng | 35 | 48 | 9 | 233 | - |
-| Aiden Mizhen | 22 | 36 | 8 | 178 | $\color{green}{+3}$ |
+| Aiden Mizhen | 22 | 36 | 8 | 178 | - |
 | Nico FB | 18 | 26 | 5 | 126 | - |
 | Jad Alaoui | 47 | 7 | 1 | 74 | - |
-| Aneesh Kumar | 13 | 5 | 1 | 34 | - |
+| Aneesh Kumar | 14 | 5 | 1 | 35 | $\color{green}{+1}$ |
 | Carey Wang | 2 | 0 | 0 | 2 | - |
