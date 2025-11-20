@@ -21,7 +21,7 @@ You score is calculated as:
 | Jim Xiong | 127 | 340 | 76 | 1603 | - |
 | Hrishikesh Bagalkote | 212 | 363 | 50 | 1601 | - |
 | Matthew Jia | 137 | 298 | 73 | 1469 | - |
-| Ruyi Li | 106 | 269 | 89 | 1447 | $\color{green}{+3}$ |
+| Ruyi Li | 106 | 269 | 89 | 1447 | - |
 | Arnav Shah | 85 | 236 | 56 | 1129 | - |
 | Roee Tsimhoni | 81 | 212 | 61 | 1083 | - |
 | Rithvik Vanga | 36 | 230 | 43 | 984 | - |
@@ -34,8 +34,8 @@ You score is calculated as:
 | Nikhil Goli | 47 | 109 | 18 | 482 | - |
 | Krish Kapoor | 43 | 84 | 10 | 355 | - |
 | Batu Engin | 59 | 79 | 2 | 308 | - |
-| Rick Peng | 38 | 65 | 11 | 299 | $\color{green}{+9}$ |
-| Aiden Mizhen | 25 | 39 | 8 | 190 | $\color{green}{+8}$ |
+| Rick Peng | 39 | 66 | 11 | 303 | $\color{green}{+4}$ |
+| Aiden Mizhen | 25 | 39 | 8 | 190 | - |
 | Nico FB | 19 | 29 | 6 | 142 | - |
 | Jad Alaoui | 47 | 7 | 1 | 74 | - |
 | Aneesh Kumar | 14 | 5 | 1 | 35 | - |
