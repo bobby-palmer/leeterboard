@@ -39,5 +39,6 @@ You score is calculated as:
 | Nico FB | 19 | 29 | 6 | 142 | - |
 | Jad Alaoui | 47 | 7 | 1 | 74 | - |
 | Aneesh Kumar | 14 | 5 | 1 | 35 | - |
-| Sarah Zhang | 3 | 4 | 0 | 15 | $\color{green}{+15}$ |
+| Sarah Zhang | 3 | 4 | 0 | 15 | - |
+| Josephine Billinger | 6 | 0 | 0 | 6 | $\color{green}{+6}$ |
 | Carey Wang | 2 | 0 | 0 | 2 | - |
