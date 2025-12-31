@@ -31,14 +31,14 @@ You score is calculated as:
 | Nikhil Patel | 76 | 192 | 27 | 814 | - |
 | Aaron Rahman | 57 | 156 | 41 | 771 | - |
 | Aarin Salot | 89 | 182 | 14 | 719 | - |
-| Nikhil Goli | 49 | 114 | 21 | 517 | $\color{green}{+27}$ |
+| Nikhil Goli | 49 | 114 | 21 | 517 | - |
 | Rick Peng | 40 | 81 | 12 | 355 | - |
 | Krish Kapoor | 43 | 84 | 10 | 355 | - |
 | Batu Engin | 59 | 79 | 2 | 308 | - |
 | Aiden Mizhen | 25 | 39 | 8 | 190 | - |
 | Nico FB | 19 | 29 | 6 | 142 | - |
 | Jad Alaoui | 47 | 7 | 1 | 74 | - |
-| Aneesh Kumar | 14 | 6 | 1 | 38 | $\color{green}{+3}$ |
+| Aneesh Kumar | 14 | 6 | 1 | 38 | - |
 | Sarah Zhang | 3 | 4 | 0 | 15 | - |
 | Josephine Billinger | 6 | 0 | 0 | 6 | - |
 | Carey Wang | 2 | 0 | 0 | 2 | - |
