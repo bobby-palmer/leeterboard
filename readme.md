@@ -29,7 +29,7 @@ You score is calculated as:
 | David McDermott | 134 | 201 | 23 | 875 | - |
 | Conner Rose | 80 | 146 | 51 | 824 | - |
 | Nikhil Patel | 76 | 192 | 27 | 814 | - |
-| Aaron Rahman | 57 | 156 | 41 | 771 | - |
+| Aaron Rahman | 57 | 157 | 41 | 774 | $\color{green}{+3}$ |
 | Aarin Salot | 89 | 182 | 14 | 719 | - |
 | Nikhil Goli | 49 | 114 | 21 | 517 | - |
 | Rick Peng | 40 | 81 | 12 | 355 | - |
@@ -38,7 +38,7 @@ You score is calculated as:
 | Aiden Mizhen | 25 | 39 | 8 | 190 | - |
 | Nico FB | 19 | 29 | 6 | 142 | - |
 | Jad Alaoui | 47 | 7 | 1 | 74 | - |
-| Aneesh Kumar | 14 | 7 | 1 | 41 | - |
+| Aneesh Kumar | 21 | 7 | 1 | 48 | $\color{green}{+7}$ |
 | Sarah Zhang | 3 | 4 | 0 | 15 | - |
 | Josephine Billinger | 6 | 0 | 0 | 6 | - |
 | Carey Wang | 2 | 0 | 0 | 2 | - |
