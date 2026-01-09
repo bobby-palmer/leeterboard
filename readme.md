@@ -40,5 +40,5 @@ You score is calculated as:
 | Jad Alaoui | 47 | 7 | 1 | 74 | - |
 | Aneesh Kumar | 21 | 7 | 1 | 48 | - |
 | Sarah Zhang | 3 | 4 | 0 | 15 | - |
-| Josephine Billinger | 6 | 0 | 0 | 6 | - |
+| Josephine Billinger | 7 | 0 | 0 | 7 | $\color{green}{+1}$ |
 | Carey Wang | 2 | 0 | 0 | 2 | - |
