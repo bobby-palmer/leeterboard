@@ -29,7 +29,7 @@ You score is calculated as:
 | David McDermott | 135 | 201 | 23 | 876 | - |
 | Conner Rose | 80 | 146 | 51 | 824 | - |
 | Nikhil Patel | 76 | 192 | 27 | 814 | - |
-| Aaron Rahman | 57 | 158 | 41 | 777 | $\color{green}{+3}$ |
+| Aaron Rahman | 57 | 158 | 41 | 777 | - |
 | Aarin Salot | 89 | 182 | 14 | 719 | - |
 | Nikhil Goli | 49 | 114 | 21 | 517 | - |
 | Rick Peng | 41 | 81 | 12 | 356 | - |
