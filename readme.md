@@ -35,7 +35,7 @@ You score is calculated as:
 | Rick Peng | 43 | 82 | 12 | 361 | - |
 | Krish Kapoor | 43 | 84 | 10 | 355 | - |
 | Batu Engin | 59 | 79 | 2 | 308 | - |
-| Aiden Mizhen | 25 | 41 | 8 | 196 | - |
+| Aiden Mizhen | 26 | 41 | 8 | 197 | $\color{green}{+1}$ |
 | Nico FB | 19 | 29 | 6 | 142 | - |
 | Jad Alaoui | 47 | 7 | 1 | 74 | - |
 | Aneesh Kumar | 21 | 7 | 1 | 48 | - |
