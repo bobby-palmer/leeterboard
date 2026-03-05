@@ -33,7 +33,7 @@ You score is calculated as:
 | Aarin Salot | 89 | 182 | 14 | 719 | - |
 | Nikhil Goli | 49 | 114 | 21 | 517 | - |
 | Rick Peng | 44 | 84 | 12 | 368 | - |
-| Krish Kapoor | 43 | 84 | 10 | 355 | - |
+| Krish Kapoor | 43 | 85 | 10 | 358 | $\color{green}{+3}$ |
 | Batu Engin | 59 | 79 | 2 | 308 | - |
 | Aiden Mizhen | 26 | 41 | 8 | 197 | - |
 | Nico FB | 19 | 29 | 6 | 142 | - |
