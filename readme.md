@@ -32,8 +32,8 @@ You score is calculated as:
 | Aaron Rahman | 57 | 158 | 41 | 777 | - |
 | Aarin Salot | 89 | 182 | 14 | 719 | - |
 | Nikhil Goli | 49 | 114 | 21 | 517 | - |
-| Rick Peng | 44 | 84 | 12 | 368 | - |
-| Krish Kapoor | 43 | 85 | 10 | 358 | $\color{green}{+3}$ |
+| Rick Peng | 46 | 84 | 12 | 370 | $\color{green}{+2}$ |
+| Krish Kapoor | 43 | 85 | 10 | 358 | - |
 | Batu Engin | 59 | 79 | 2 | 308 | - |
 | Aiden Mizhen | 26 | 41 | 8 | 197 | - |
 | Nico FB | 19 | 29 | 6 | 142 | - |
