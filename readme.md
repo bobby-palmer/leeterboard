@@ -41,4 +41,5 @@ You score is calculated as:
 | Josephine Billinger | 21 | 11 | 0 | 54 | - |
 | Aneesh Kumar | 21 | 7 | 1 | 48 | - |
 | Sarah Zhang | 3 | 4 | 0 | 15 | - |
+| Taylor Martin | 0 | 1 | 0 | 3 | $\color{green}{+3}$ |
 | Carey Wang | 2 | 0 | 0 | 2 | - |
