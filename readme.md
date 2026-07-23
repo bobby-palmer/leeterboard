@@ -18,7 +18,7 @@ You score is calculated as:
 | Name | Easy | Medium | Hard | Score | 1 Day Change |
 | --- | --- | --- | --- | --- | --- |
 | Bobby Palmer | 97 | 350 | 154 | 2071 | - |
-| Jim Xiong | 129 | 341 | 79 | 1626 | - |
+| Jim Xiong | 128 | 342 | 79 | 1628 | $\color{green}{+2}$ |
 | Hrishikesh Bagalkote | 214 | 368 | 51 | 1624 | - |
 | Matthew Jia | 137 | 298 | 73 | 1469 | - |
 | Ruyi Li | 106 | 269 | 89 | 1447 | - |
@@ -40,6 +40,6 @@ You score is calculated as:
 | Jad Alaoui | 47 | 7 | 1 | 74 | - |
 | Josephine Billinger | 21 | 11 | 0 | 54 | - |
 | Aneesh Kumar | 21 | 7 | 1 | 48 | - |
-| Taylor Martin | 10 | 7 | 0 | 31 | $\color{green}{+11}$ |
+| Taylor Martin | 10 | 10 | 0 | 40 | $\color{green}{+9}$ |
 | Sarah Zhang | 3 | 4 | 0 | 15 | - |
 | Carey Wang | 2 | 0 | 0 | 2 | - |
