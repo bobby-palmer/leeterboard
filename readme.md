@@ -38,7 +38,7 @@ You score is calculated as:
 | Aiden Mizhen | 26 | 42 | 8 | 200 | - |
 | Nico FB | 19 | 29 | 6 | 142 | - |
 | Jad Alaoui | 47 | 7 | 1 | 74 | - |
-| Taylor Martin | 13 | 15 | 0 | 58 | $\color{green}{+3}$ |
+| Taylor Martin | 15 | 16 | 0 | 63 | $\color{green}{+5}$ |
 | Josephine Billinger | 21 | 11 | 0 | 54 | - |
 | Aneesh Kumar | 21 | 7 | 1 | 48 | - |
 | Sarah Zhang | 3 | 4 | 0 | 15 | - |
