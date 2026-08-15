@@ -17,7 +17,7 @@ You score is calculated as:
 ## Leaderboard
 | Name | Easy | Medium | Hard | Score | 1 Day Change |
 | --- | --- | --- | --- | --- | --- |
-| Bobby Palmer | 99 | 355 | 157 | 2106 | $\color{green}{+6}$ |
+| Bobby Palmer | 99 | 355 | 157 | 2106 | - |
 | Jim Xiong | 128 | 342 | 79 | 1628 | - |
 | Hrishikesh Bagalkote | 214 | 368 | 51 | 1624 | - |
 | Matthew Jia | 137 | 298 | 73 | 1469 | - |
@@ -35,9 +35,9 @@ You score is calculated as:
 | Rick Peng | 56 | 115 | 12 | 473 | - |
 | Krish Kapoor | 43 | 102 | 10 | 409 | - |
 | Batu Engin | 59 | 79 | 2 | 308 | - |
-| Aiden Mizhen | 26 | 42 | 8 | 200 | - |
+| Aiden Mizhen | 27 | 42 | 8 | 201 | $\color{green}{+1}$ |
 | Nico FB | 19 | 29 | 6 | 142 | - |
-| Taylor Martin | 27 | 30 | 3 | 135 | - |
+| Taylor Martin | 28 | 30 | 3 | 136 | $\color{green}{+1}$ |
 | Jad Alaoui | 47 | 7 | 1 | 74 | - |
 | Josephine Billinger | 21 | 11 | 0 | 54 | - |
 | Aneesh Kumar | 21 | 7 | 1 | 48 | - |
