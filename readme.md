@@ -37,7 +37,7 @@ You score is calculated as:
 | Gjonpjer Kola | 123 | 69 | 4 | 354 | - |
 | Batu Engin | 59 | 79 | 2 | 308 | - |
 | Aiden Mizhen | 27 | 42 | 8 | 201 | - |
-| Taylor Martin | 29 | 34 | 4 | 155 | $\color{green}{+4}$ |
+| Taylor Martin | 30 | 36 | 5 | 168 | $\color{green}{+13}$ |
 | Nico FB | 19 | 29 | 6 | 142 | - |
 | Jad Alaoui | 47 | 7 | 1 | 74 | - |
 | Josephine Billinger | 21 | 11 | 0 | 54 | - |
