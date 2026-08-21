@@ -36,8 +36,8 @@ You score is calculated as:
 | Krish Kapoor | 43 | 102 | 10 | 409 | - |
 | Gjonpjer Kola | 123 | 69 | 4 | 354 | - |
 | Batu Engin | 59 | 79 | 2 | 308 | - |
-| Aiden Mizhen | 27 | 42 | 8 | 201 | - |
-| Taylor Martin | 30 | 36 | 5 | 168 | $\color{green}{+13}$ |
+| Aiden Mizhen | 29 | 43 | 8 | 206 | $\color{green}{+5}$ |
+| Taylor Martin | 30 | 36 | 5 | 168 | - |
 | Nico FB | 19 | 29 | 6 | 142 | - |
 | Jad Alaoui | 47 | 7 | 1 | 74 | - |
 | Josephine Billinger | 21 | 11 | 0 | 54 | - |
