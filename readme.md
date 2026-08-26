@@ -17,12 +17,12 @@ You score is calculated as:
 ## Leaderboard
 | Name | Easy | Medium | Hard | Score | 1 Day Change |
 | --- | --- | --- | --- | --- | --- |
-| Bobby Palmer | 99 | 357 | 160 | 2130 | $\color{green}{+6}$ |
+| Bobby Palmer | 99 | 357 | 160 | 2130 | - |
 | Jim Xiong | 128 | 342 | 79 | 1628 | - |
 | Hrishikesh Bagalkote | 214 | 368 | 51 | 1624 | - |
 | Matthew Jia | 137 | 298 | 73 | 1469 | - |
 | Ruyi Li | 106 | 269 | 89 | 1447 | - |
-| Arnav Shah | 85 | 236 | 56 | 1129 | - |
+| Arnav Shah | 86 | 236 | 56 | 1130 | $\color{green}{+1}$ |
 | Roee Tsimhoni | 81 | 212 | 61 | 1083 | - |
 | Rithvik Vanga | 36 | 230 | 43 | 984 | - |
 | Charles Huang | 57 | 237 | 28 | 936 | - |
@@ -36,7 +36,7 @@ You score is calculated as:
 | Krish Kapoor | 43 | 102 | 10 | 409 | - |
 | Gjonpjer Kola | 125 | 71 | 4 | 362 | - |
 | Batu Engin | 59 | 79 | 2 | 308 | - |
-| Aiden Mizhen | 30 | 61 | 8 | 261 | $\color{green}{+9}$ |
+| Aiden Mizhen | 30 | 63 | 8 | 267 | $\color{green}{+6}$ |
 | Taylor Martin | 30 | 36 | 5 | 168 | - |
 | Nico FB | 19 | 29 | 6 | 142 | - |
 | Jad Alaoui | 47 | 7 | 1 | 74 | - |
