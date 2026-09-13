@@ -34,7 +34,7 @@ You score is calculated as:
 | Nikhil Goli | 49 | 120 | 32 | 601 | - |
 | Rick Peng | 58 | 120 | 13 | 496 | - |
 | Krish Kapoor | 43 | 102 | 10 | 409 | - |
-| Gjonpjer Kola | 125 | 71 | 4 | 362 | - |
+| Gjonpjer Kola | 125 | 72 | 4 | 365 | $\color{green}{+3}$ |
 | Batu Engin | 59 | 79 | 2 | 308 | - |
 | Aiden Mizhen | 32 | 73 | 8 | 299 | - |
 | Taylor Martin | 30 | 36 | 5 | 168 | - |
