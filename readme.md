@@ -35,7 +35,7 @@ You score is calculated as:
 | Rick Peng | 58 | 120 | 13 | 496 | - |
 | Krish Kapoor | 43 | 102 | 10 | 409 | - |
 | Gjonpjer Kola | 126 | 72 | 5 | 372 | - |
-| Aiden Mizhen | 38 | 86 | 10 | 356 | $\color{green}{+18}$ |
+| Aiden Mizhen | 39 | 86 | 10 | 357 | $\color{green}{+1}$ |
 | Batu Engin | 59 | 79 | 2 | 308 | - |
 | Taylor Martin | 30 | 36 | 5 | 168 | - |
 | Nico FB | 19 | 29 | 6 | 142 | - |
