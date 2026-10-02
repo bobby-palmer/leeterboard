@@ -22,7 +22,7 @@ You score is calculated as:
 | Hrishikesh Bagalkote | 214 | 368 | 51 | 1624 | - |
 | Matthew Jia | 137 | 298 | 73 | 1469 | - |
 | Ruyi Li | 106 | 269 | 89 | 1447 | - |
-| Drake Graham | 228 | 283 | 34 | 1281 | - |
+| Drake Graham | 228 | 284 | 34 | 1284 | $\color{green}{+3}$ |
 | Arnav Shah | 86 | 236 | 56 | 1130 | - |
 | Roee Tsimhoni | 81 | 212 | 61 | 1083 | - |
 | Rithvik Vanga | 36 | 230 | 43 | 984 | - |
@@ -34,9 +34,9 @@ You score is calculated as:
 | Aarin Salot | 89 | 182 | 14 | 719 | - |
 | Nikhil Goli | 49 | 120 | 32 | 601 | - |
 | Rick Peng | 58 | 120 | 13 | 496 | - |
+| Gjonpjer Kola | 130 | 82 | 6 | 412 | $\color{green}{+7}$ |
 | Krish Kapoor | 43 | 102 | 10 | 409 | - |
-| Gjonpjer Kola | 129 | 80 | 6 | 405 | - |
-| Aiden Mizhen | 44 | 88 | 10 | 368 | $\color{green}{+1}$ |
+| Aiden Mizhen | 44 | 88 | 10 | 368 | - |
 | Batu Engin | 59 | 79 | 2 | 308 | - |
 | Taylor Martin | 30 | 37 | 5 | 171 | - |
 | Nico FB | 19 | 29 | 6 | 142 | - |
