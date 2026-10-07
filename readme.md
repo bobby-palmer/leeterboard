@@ -30,11 +30,11 @@ You score is calculated as:
 | David McDermott | 136 | 203 | 23 | 883 | - |
 | Conner Rose | 80 | 146 | 51 | 824 | - |
 | Nikhil Patel | 76 | 192 | 27 | 814 | - |
-| Aaron Rahman | 59 | 159 | 41 | 782 | - |
+| Aaron Rahman | 59 | 160 | 41 | 785 | $\color{green}{+3}$ |
 | Aarin Salot | 89 | 182 | 14 | 719 | - |
 | Nikhil Goli | 49 | 120 | 32 | 601 | - |
 | Rick Peng | 58 | 120 | 13 | 496 | - |
-| Gjonpjer Kola | 131 | 91 | 7 | 446 | $\color{green}{+6}$ |
+| Gjonpjer Kola | 132 | 96 | 7 | 462 | $\color{green}{+16}$ |
 | Aiden Mizhen | 56 | 100 | 11 | 422 | - |
 | Krish Kapoor | 43 | 102 | 10 | 409 | - |
 | Batu Engin | 59 | 79 | 2 | 308 | - |
