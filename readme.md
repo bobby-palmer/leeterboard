@@ -17,7 +17,7 @@ You score is calculated as:
 ## Leaderboard
 | Name | Easy | Medium | Hard | Score | 1 Day Change |
 | --- | --- | --- | --- | --- | --- |
-| Bobby Palmer | 99 | 361 | 160 | 2142 | - |
+| Bobby Palmer | 99 | 362 | 160 | 2145 | $\color{green}{+3}$ |
 | Jim Xiong | 128 | 342 | 79 | 1628 | - |
 | Hrishikesh Bagalkote | 214 | 368 | 51 | 1624 | - |
 | Matthew Jia | 137 | 298 | 73 | 1469 | - |
@@ -30,12 +30,12 @@ You score is calculated as:
 | David McDermott | 136 | 203 | 23 | 883 | - |
 | Conner Rose | 80 | 146 | 51 | 824 | - |
 | Nikhil Patel | 76 | 192 | 27 | 814 | - |
-| Aaron Rahman | 59 | 160 | 41 | 785 | $\color{green}{+3}$ |
+| Aaron Rahman | 59 | 160 | 41 | 785 | - |
 | Aarin Salot | 89 | 182 | 14 | 719 | - |
 | Nikhil Goli | 49 | 120 | 32 | 601 | - |
 | Rick Peng | 58 | 120 | 13 | 496 | - |
-| Gjonpjer Kola | 132 | 96 | 7 | 462 | $\color{green}{+16}$ |
-| Aiden Mizhen | 56 | 100 | 11 | 422 | - |
+| Gjonpjer Kola | 132 | 96 | 7 | 462 | - |
+| Aiden Mizhen | 57 | 102 | 11 | 429 | $\color{green}{+7}$ |
 | Krish Kapoor | 43 | 102 | 10 | 409 | - |
 | Batu Engin | 59 | 79 | 2 | 308 | - |
 | Taylor Martin | 30 | 37 | 5 | 171 | - |
