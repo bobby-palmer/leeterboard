@@ -34,7 +34,7 @@ You score is calculated as:
 | Aarin Salot | 89 | 182 | 14 | 719 | - |
 | Nikhil Goli | 49 | 120 | 32 | 601 | - |
 | Rick Peng | 58 | 120 | 13 | 496 | - |
-| Gjonpjer Kola | 136 | 104 | 7 | 490 | $\color{green}{+1}$ |
+| Gjonpjer Kola | 136 | 104 | 7 | 490 | - |
 | Aiden Mizhen | 58 | 114 | 12 | 472 | - |
 | Krish Kapoor | 43 | 102 | 10 | 409 | - |
 | Batu Engin | 59 | 79 | 2 | 308 | - |
