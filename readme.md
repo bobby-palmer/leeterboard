@@ -22,7 +22,7 @@ You score is calculated as:
 | Hrishikesh Bagalkote | 214 | 368 | 51 | 1624 | - |
 | Matthew Jia | 137 | 298 | 73 | 1469 | - |
 | Ruyi Li | 106 | 269 | 89 | 1447 | - |
-| Drake Graham | 228 | 293 | 37 | 1329 | $\color{green}{+3}$ |
+| Drake Graham | 228 | 293 | 37 | 1329 | - |
 | Arnav Shah | 86 | 236 | 56 | 1130 | - |
 | Roee Tsimhoni | 81 | 212 | 61 | 1083 | - |
 | Rithvik Vanga | 36 | 230 | 43 | 984 | - |
