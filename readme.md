@@ -33,7 +33,7 @@ You score is calculated as:
 | Aaron Rahman | 59 | 160 | 41 | 785 | - |
 | Aarin Salot | 89 | 182 | 14 | 719 | - |
 | Nikhil Goli | 49 | 120 | 32 | 601 | - |
-| Gjonpjer Kola | 136 | 112 | 7 | 514 | - |
+| Gjonpjer Kola | 136 | 113 | 7 | 517 | $\color{green}{+3}$ |
 | Rick Peng | 58 | 120 | 13 | 496 | - |
 | Aiden Mizhen | 59 | 119 | 13 | 494 | - |
 | Krish Kapoor | 43 | 102 | 10 | 409 | - |
