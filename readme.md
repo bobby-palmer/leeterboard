@@ -17,12 +17,12 @@ You score is calculated as:
 ## Leaderboard
 | Name | Easy | Medium | Hard | Score | 1 Day Change |
 | --- | --- | --- | --- | --- | --- |
-| Bobby Palmer | 99 | 363 | 160 | 2148 | - |
+| Bobby Palmer | 99 | 364 | 160 | 2151 | $\color{green}{+3}$ |
 | Jim Xiong | 128 | 342 | 79 | 1628 | - |
 | Hrishikesh Bagalkote | 214 | 368 | 51 | 1624 | - |
 | Matthew Jia | 137 | 298 | 73 | 1469 | - |
 | Ruyi Li | 106 | 269 | 89 | 1447 | - |
-| Drake Graham | 228 | 293 | 37 | 1329 | - |
+| Drake Graham | 229 | 297 | 40 | 1360 | $\color{green}{+31}$ |
 | Arnav Shah | 86 | 236 | 56 | 1130 | - |
 | Roee Tsimhoni | 81 | 212 | 61 | 1083 | - |
 | Rithvik Vanga | 36 | 230 | 43 | 984 | - |
@@ -30,12 +30,12 @@ You score is calculated as:
 | David McDermott | 136 | 203 | 23 | 883 | - |
 | Conner Rose | 80 | 146 | 51 | 824 | - |
 | Nikhil Patel | 76 | 192 | 27 | 814 | - |
-| Aaron Rahman | 59 | 160 | 41 | 785 | - |
+| Aaron Rahman | 59 | 162 | 41 | 791 | $\color{green}{+6}$ |
 | Aarin Salot | 89 | 182 | 14 | 719 | - |
 | Nikhil Goli | 49 | 120 | 32 | 601 | - |
-| Gjonpjer Kola | 136 | 113 | 7 | 517 | - |
+| Gjonpjer Kola | 137 | 117 | 7 | 530 | $\color{green}{+13}$ |
+| Aiden Mizhen | 61 | 123 | 14 | 514 | $\color{green}{+20}$ |
 | Rick Peng | 58 | 120 | 13 | 496 | - |
-| Aiden Mizhen | 59 | 119 | 13 | 494 | - |
 | Krish Kapoor | 43 | 102 | 10 | 409 | - |
 | Batu Engin | 59 | 79 | 2 | 308 | - |
 | Taylor Martin | 30 | 37 | 5 | 171 | - |
