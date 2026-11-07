@@ -10,16 +10,16 @@ jobs:
     if: ${{ github.event.issue.title == '[register]' }} 
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - name: Checkout repository content
+        uses: actions/checkout@v7
 
-      - name: Setup Python Version
-        uses: actions/setup-python@v2
+      - name: Setup Python
+        uses: actions/setup-python@v7
         with:
-          python-version: 3.8 # Install the python version needed
+          python-version: "3.14"
 
       - name: Install Python dependencies
-        run: python -m pip install --upgrade pip requests
+        run: python -m pip install requests
 
       - name: Make and commit changes
         run: |
