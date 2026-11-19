@@ -38,7 +38,7 @@ You score is calculated as:
 | Rick Peng | 58 | 120 | 13 | 496 | - |
 | Krish Kapoor | 43 | 102 | 10 | 409 | - |
 | Batu Engin | 59 | 79 | 2 | 308 | - |
-| Taylor Martin | 31 | 37 | 5 | 172 | $\color{green}{+1}$ |
+| Taylor Martin | 31 | 37 | 5 | 172 | - |
 | Nico FB | 19 | 29 | 6 | 142 | - |
 | Jad Alaoui | 47 | 7 | 1 | 74 | - |
 | Josephine Billinger | 21 | 11 | 0 | 54 | - |
