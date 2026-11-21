@@ -17,7 +17,7 @@ You score is calculated as:
 ## Leaderboard
 | Name | Easy | Medium | Hard | Score | 1 Day Change |
 | --- | --- | --- | --- | --- | --- |
-| Bobby Palmer | 99 | 365 | 160 | 2154 | - |
+| Bobby Palmer | 99 | 365 | 161 | 2160 | $\color{green}{+6}$ |
 | Jim Xiong | 128 | 342 | 79 | 1628 | - |
 | Hrishikesh Bagalkote | 214 | 368 | 51 | 1624 | - |
 | Matthew Jia | 137 | 298 | 73 | 1469 | - |
@@ -33,12 +33,12 @@ You score is calculated as:
 | Aaron Rahman | 59 | 162 | 41 | 791 | - |
 | Aarin Salot | 89 | 182 | 14 | 719 | - |
 | Nikhil Goli | 49 | 120 | 32 | 601 | - |
-| Gjonpjer Kola | 138 | 124 | 7 | 552 | - |
+| Gjonpjer Kola | 138 | 126 | 7 | 558 | $\color{green}{+6}$ |
 | Aiden Mizhen | 61 | 126 | 15 | 529 | - |
 | Rick Peng | 58 | 120 | 13 | 496 | - |
 | Krish Kapoor | 43 | 102 | 10 | 409 | - |
 | Batu Engin | 59 | 79 | 2 | 308 | - |
-| Taylor Martin | 31 | 37 | 5 | 172 | - |
+| Taylor Martin | 31 | 38 | 5 | 175 | $\color{green}{+3}$ |
 | Nico FB | 19 | 29 | 6 | 142 | - |
 | Jad Alaoui | 47 | 7 | 1 | 74 | - |
 | Josephine Billinger | 21 | 11 | 0 | 54 | - |
